@@ -2,7 +2,8 @@
 
 This repository contains an assortment of routines written in IDL for
 reducing and analyzing multiwavelength imaging and spectroscopy of
-galaxies.  
+galaxies. This respository was written back John Moutakas and only 
+included in this github repository for back-up purposes.
 
 Some of the code highlights included with impro:
 
