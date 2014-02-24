@@ -1,0 +1,14 @@
+typedef struct {
+    	char  name[100];
+	float zmin;
+	float zmax;
+	float AbsMag_min; 
+	float AbsMag_max; 
+} SAMPLE_INDEX;
+
+SAMPLE_INDEX PRIMUS0709-22-13.fits   0.7   0.85   -22    -13
+SAMPLE_INDEX PRIMUS0711-22-14.fits   0.7   1.1    -22    -14
+SAMPLE_INDEX PRIMUS0203-22-21.fits   0.2   0.3    -22    -21
+SAMPLE_INDEX PRIMUS0708-22-21.fits   0.7   0.8    -22    -21
+SAMPLE_INDEX PRIMUS0208-23-19.fits   0.2   0.8    -23    -19
+SAMPLE_INDEX PRIMUS0208-23-20.fits   0.2   0.8    -23    -20

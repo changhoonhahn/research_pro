@@ -1,0 +1,36 @@
+BUILD_VMAX_AVAIL: -------------------------Thu Feb 20 21:12:45 2014
+BUILD_VMAX_AVAIL: survey: es1_cosmos_cfhtls_xmm_cdfs_xmm_swire_
+BUILD_VMAX_AVAIL: R = 5 H = 25 Threshold = 60
+BUILD_VMAX_AVAIL: Ransack and Random file used:
+BUILD_VMAX_AVAIL: /global/data/scr/chh327/primus/data/ransack/ransack_es1_cosmos_cfhtls_xmm_cdfs_xmm_swire_1000000.fits
+BUILD_VMAX_AVAIL: /global/data/scr/chh327/primus/data/ransack/random_es1_cosmos_cfhtls_xmm_cdfs_xmm_swire_100000.fits
+BUILD_VMAX_AVAIL: -------------------------Thu Feb 20 21:29:30 2014
+BUILD_VMAX_AVAIL: survey: es1_cosmos_cfhtls_xmm_cdfs_xmm_swire_
+BUILD_VMAX_AVAIL: R = 1 H = 25 Threshold = 80
+BUILD_VMAX_AVAIL: Ransack and Random file used:
+BUILD_VMAX_AVAIL: /global/data/scr/chh327/primus/data/ransack/ransack_es1_cosmos_cfhtls_xmm_cdfs_xmm_swire_1000000.fits
+BUILD_VMAX_AVAIL: /global/data/scr/chh327/primus/data/ransack/random_es1_cosmos_cfhtls_xmm_cdfs_xmm_swire_100000.fits
+BUILD_VMAX_AVAIL: Output: 
+/global/data/scr/chh327/primus/data/vmax_avail/vmax_avail_cylr1h25_thresh80_es1_cosmos_cfhtls_xmm_cdfs_xmm_swire_ran100000_rsk1000000.fits
+BUILD_VMAX_AVAIL: Total time =  24.568869
+BUILD_VMAX_AVAIL:  
+BUILD_ENVIRONMENT_CYLINDER: -------------------------Thu Feb 20 21:54:13 2014
+BUILD_ENVIRONMENT_CYLINDER: Fields  es1 cosmos cfhtls_xmm cdfs xmm_swire
+BUILD_ENVIRONMENT_CYLINDER: zmin= 0.200000 zmax= 1.00000 cylrad= 1 cylheight= 25 threshold= 0.800000
+BUILD_ENVIRONMENT_CYLINDER: EDP file/global/data/scr/chh327/primus/data/EDP/EDP-primus-z0210-numden.fits
+BUILD_ENVIRONMENT_CYLINDER: Ransack file/global/data/scr/chh327/primus/data/ransack/ransack_es1_cosmos_cfhtls_xmm_cdfs_xmm_swire_1000000.fits
+BUILD_ENVIRONMENT_CYLINDER: active
+BUILD_ENVIRONMENT_CYLINDER: Target file /global/data/scr/chh327/primus/data/target/target_cylr1h25_thresh80_active_lit.fits
+  MATCHND:  39.236620
+BUILD_ENVIRONMENT_CYLINDER: Output: 
+/global/data/scr/chh327/primus/data/envcount/envcount_cylr1h25_thresh80_active_lit_EDP-primus-z0210-numden.fits
+BUILD_ENVIRONMENT_CYLINDER: Edgecut/Environment Time =  7.9863351
+BUILD_ENVIRONMENT_CYLINDER:  
+BUILD_ENVIRONMENT_CYLINDER: quiescent
+BUILD_ENVIRONMENT_CYLINDER: Target file /global/data/scr/chh327/primus/data/target/target_cylr1h25_thresh80_quiescent_lit.fits
+  MATCHND:  39.236620
+BUILD_ENVIRONMENT_CYLINDER: Output: 
+/global/data/scr/chh327/primus/data/envcount/envcount_cylr1h25_thresh80_quiescent_lit_EDP-primus-z0210-numden.fits
+BUILD_ENVIRONMENT_CYLINDER: Edgecut/Environment Time =  0.17970349
+BUILD_ENVIRONMENT_CYLINDER:  
+BUILD_ENVIRONMENT_CYLINDER: Total Time= 8.1721713

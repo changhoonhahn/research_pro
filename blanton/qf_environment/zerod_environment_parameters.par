@@ -1,0 +1,20 @@
+typedef struct {
+	int   run; 
+        char  name[5];
+	float zmin;
+	float zmax;
+	int cylrad;
+	int cylheight;
+        int  thresh;
+        float highenvthresh;
+        float lowenvthresh;
+} PARAMETERS;
+
+PARAMETERS 1   primus   0.2      1.0     1   25     80      1.5     1.0
+PARAMETERS 2   sdss     0.0375   0.145   1   25     80      1.5     1.0   
+PARAMETERS 3   primus   0.2      1.0     2   25     75      4.0     1.0  
+PARAMETERS 4   sdss     0.0375   0.145   2   25     75      4.0     1.0  
+PARAMETERS 5   primus   0.2      1.0     5   25     60      20.0    1.0  
+PARAMETERS 6   sdss     0.0375   0.145   5   25     60      20.0    1.0  
+PARAMETERS 7   primus   0.2      1.0     2   25     75      3.0     1.5  
+PARAMETERS 8   sdss     0.0375   0.145   2   25     75      3.0     1.5  

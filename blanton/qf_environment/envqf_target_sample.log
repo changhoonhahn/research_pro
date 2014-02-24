@@ -1,0 +1,23 @@
+BUILD_TARGET_SAMPLE: -------------------------Thu Feb 20 21:01:27 2014
+BUILD_TARGET_SAMPLE: -------------------------Thu Feb 20 21:28:47 2014
+BUILD_TARGET_SAMPLE: Fields  es1 cosmos cfhtls_xmm cdfs xmm_swire
+BUILD_TARGET_SAMPLE: Vmaxavail file /global/data/scr/chh327/primus/data/vmax_avail/vmax_avail_cylr1h25_thresh80_es1_cosmos_cfhtls_xmm_cdfs_xmm_swire_ran100000_rsk1000000.fits
+BUILD_TARGET_SAMPLE: mfdata file/global/data/scr/chh327/primus/mfdata/mfdata_chh/new/env_zrange/mfdata_all_supergrid01_lit.fits.gz
+BUILD_TARGET_SAMPLE: -------------------------Thu Feb 20 21:54:07 2014
+BUILD_TARGET_SAMPLE: Fields  es1 cosmos cfhtls_xmm cdfs xmm_swire
+BUILD_TARGET_SAMPLE: Vmaxavail file /global/data/scr/chh327/primus/data/vmax_avail/vmax_avail_cylr1h25_thresh80_es1_cosmos_cfhtls_xmm_cdfs_xmm_swire_ran100000_rsk1000000.fits
+BUILD_TARGET_SAMPLE: mfdata file/global/data/scr/chh327/primus/mfdata/mfdata_chh/new/env_zrange/mfdata_all_supergrid01_lit.fits.gz
+BUILD_TARGET_SAMPLE: Output: 
+/global/data/scr/chh327/primus/data/target/target_cylr1h25_thresh80_all_lit.fits
+BUILD_TARGET_SAMPLE: Total time =  0.047048815
+BUILD_TARGET_SAMPLE:  
+BUILD_TARGET_SAMPLE: mfdata file/global/data/scr/chh327/primus/mfdata/mfdata_chh/new/env_zrange/mfdata_active_supergrid01_lit.fits.gz
+BUILD_TARGET_SAMPLE: Output: 
+/global/data/scr/chh327/primus/data/target/target_cylr1h25_thresh80_active_lit.fits
+BUILD_TARGET_SAMPLE: Total time =  0.074487432
+BUILD_TARGET_SAMPLE:  
+BUILD_TARGET_SAMPLE: mfdata file/global/data/scr/chh327/primus/mfdata/mfdata_chh/new/env_zrange/mfdata_quiescent_supergrid01_lit.fits.gz
+BUILD_TARGET_SAMPLE: Output: 
+/global/data/scr/chh327/primus/data/target/target_cylr1h25_thresh80_quiescent_lit.fits
+BUILD_TARGET_SAMPLE: Total time =  0.083145249
+BUILD_TARGET_SAMPLE:  
