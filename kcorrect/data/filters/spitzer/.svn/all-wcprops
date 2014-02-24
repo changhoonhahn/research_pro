@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/kcorrect/!svn/ver/331/trunk/data/filters/spitzer
+END
+MIPSfiltsumm.txt
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/kcorrect/!svn/ver/331/trunk/data/filters/spitzer/MIPSfiltsumm.txt
+END
+irac_tr1.dat
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/kcorrect/!svn/ver/311/trunk/data/filters/spitzer/irac_tr1.dat
+END
+MIPSfiltsumm_24.txt
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/kcorrect/!svn/ver/331/trunk/data/filters/spitzer/MIPSfiltsumm_24.txt
+END
+irac_tr2.dat
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/kcorrect/!svn/ver/311/trunk/data/filters/spitzer/irac_tr2.dat
+END
+MIPSfiltsumm_160.txt
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/kcorrect/!svn/ver/331/trunk/data/filters/spitzer/MIPSfiltsumm_160.txt
+END
+MIPSfiltsumm_70.txt
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/kcorrect/!svn/ver/331/trunk/data/filters/spitzer/MIPSfiltsumm_70.txt
+END
+irac_tr3.dat
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/kcorrect/!svn/ver/311/trunk/data/filters/spitzer/irac_tr3.dat
+END
+irac_tr4.dat
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/kcorrect/!svn/ver/311/trunk/data/filters/spitzer/irac_tr4.dat
+END

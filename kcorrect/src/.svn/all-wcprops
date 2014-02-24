@@ -1,0 +1,353 @@
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/kcorrect/!svn/ver/615/trunk/src
+END
+idl_k_fit_spec.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/kcorrect/!svn/ver/375/trunk/src/idl_k_fit_spec.c
+END
+phierrors_lf.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/kcorrect/!svn/ver/347/trunk/src/phierrors_lf.c
+END
+k_fit_photoz.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/kcorrect/!svn/ver/464/trunk/src/k_fit_photoz.c
+END
+k_fit_nonneg.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/kcorrect/!svn/ver/347/trunk/src/k_fit_nonneg.c
+END
+k_interpolate.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/kcorrect/!svn/ver/347/trunk/src/k_interpolate.c
+END
+idl_z2dm.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/kcorrect/!svn/ver/347/trunk/src/idl_z2dm.c
+END
+k_yanny_readone.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/kcorrect/!svn/ver/347/trunk/src/k_yanny_readone.c
+END
+k_fit_spec.c
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/kcorrect/!svn/ver/375/trunk/src/k_fit_spec.c
+END
+k_qromo.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/kcorrect/!svn/ver/570/trunk/src/k_qromo.c
+END
+reconstruct_maggies.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/kcorrect/!svn/ver/347/trunk/src/reconstruct_maggies.c
+END
+k_evolve.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/kcorrect/!svn/ver/347/trunk/src/k_evolve.c
+END
+k_fileopen.c
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/kcorrect/!svn/ver/218/trunk/src/k_fileopen.c
+END
+k_strparse.c
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/kcorrect/!svn/ver/280/trunk/src/k_strparse.c
+END
+k_zbrent.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/kcorrect/!svn/ver/375/trunk/src/k_zbrent.c
+END
+k_polint.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/kcorrect/!svn/ver/203/trunk/src/k_polint.c
+END
+lf_WH_interp.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/kcorrect/!svn/ver/341/trunk/src/lf_WH_interp.c
+END
+idl_lf_select_eep.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/kcorrect/!svn/ver/347/trunk/src/idl_lf_select_eep.c
+END
+k_load_filters.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/kcorrect/!svn/ver/347/trunk/src/k_load_filters.c
+END
+k_locate.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/kcorrect/!svn/ver/203/trunk/src/k_locate.c
+END
+k_brent.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/kcorrect/!svn/ver/347/trunk/src/k_brent.c
+END
+fit_photoz.c
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/kcorrect/!svn/ver/280/trunk/src/fit_photoz.c
+END
+philike.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/kcorrect/!svn/ver/341/trunk/src/philike.c
+END
+lf_sum_AB.c
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/kcorrect/!svn/ver/341/trunk/src/lf_sum_AB.c
+END
+idl_k_fit_spec_linear.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/kcorrect/!svn/ver/582/trunk/src/idl_k_fit_spec_linear.c
+END
+lf_select_eep.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/kcorrect/!svn/ver/347/trunk/src/lf_select_eep.c
+END
+idl_ztoV.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/kcorrect/!svn/ver/347/trunk/src/idl_ztoV.c
+END
+idl_Vtoz.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/kcorrect/!svn/ver/347/trunk/src/idl_Vtoz.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/kcorrect/!svn/ver/582/trunk/src/Makefile
+END
+k_cholsl.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/kcorrect/!svn/ver/236/trunk/src/k_cholsl.c
+END
+k_test_filter.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/kcorrect/!svn/ver/219/trunk/src/k_test_filter.c
+END
+k_fit_spec_linear.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/kcorrect/!svn/ver/582/trunk/src/k_fit_spec_linear.c
+END
+k_filter_struct.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/kcorrect/!svn/ver/347/trunk/src/k_filter_struct.c
+END
+k_read_ascii_table.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/kcorrect/!svn/ver/219/trunk/src/k_read_ascii_table.c
+END
+k_midpnt.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/kcorrect/!svn/ver/203/trunk/src/k_midpnt.c
+END
+ztransform.c
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/kcorrect/!svn/ver/459/trunk/src/ztransform.c
+END
+k_choldc.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/kcorrect/!svn/ver/347/trunk/src/k_choldc.c
+END
+idl_lf_calc_vmax.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/kcorrect/!svn/ver/347/trunk/src/idl_lf_calc_vmax.c
+END
+k_nonneg_solve.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/kcorrect/!svn/ver/244/trunk/src/k_nonneg_solve.c
+END
+idl_z2t.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/kcorrect/!svn/ver/459/trunk/src/idl_z2t.c
+END
+idl_t2z.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/kcorrect/!svn/ver/459/trunk/src/idl_t2z.c
+END
+fit_coeffs.c
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/kcorrect/!svn/ver/280/trunk/src/fit_coeffs.c
+END
+idl_k_reconstruct_maggies.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/kcorrect/!svn/ver/347/trunk/src/idl_k_reconstruct_maggies.c
+END
+k_utils.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/kcorrect/!svn/ver/203/trunk/src/k_utils.c
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/kcorrect/!svn/ver/2/trunk/src/README
+END
+iterate_lf.c
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/kcorrect/!svn/ver/347/trunk/src/iterate_lf.c
+END
+lf_calc_vmax.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/kcorrect/!svn/ver/347/trunk/src/lf_calc_vmax.c
+END
+lf_set_AB.c
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/kcorrect/!svn/ver/341/trunk/src/lf_set_AB.c
+END
+k_reconstruct_maggies.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/kcorrect/!svn/ver/229/trunk/src/k_reconstruct_maggies.c
+END
+idl_lf_eep.c
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/kcorrect/!svn/ver/347/trunk/src/idl_lf_eep.c
+END
+idl_k_binspec.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/kcorrect/!svn/ver/532/trunk/src/idl_k_binspec.c
+END
+idl_k_projection_table.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/kcorrect/!svn/ver/347/trunk/src/idl_k_projection_table.c
+END
+idl_k_fit_photoz.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/kcorrect/!svn/ver/347/trunk/src/idl_k_fit_photoz.c
+END
+idl_k_fit_nonneg.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/kcorrect/!svn/ver/347/trunk/src/idl_k_fit_nonneg.c
+END
+lf_eep.c
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/kcorrect/!svn/ver/375/trunk/src/lf_eep.c
+END
+gaussj.c
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/kcorrect/!svn/ver/347/trunk/src/gaussj.c
+END
+k_binspec.c
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/kcorrect/!svn/ver/532/trunk/src/k_binspec.c
+END
+k_projection_table.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/kcorrect/!svn/ver/615/trunk/src/k_projection_table.c
+END
+lf_eepfit.c
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/kcorrect/!svn/ver/347/trunk/src/lf_eepfit.c
+END

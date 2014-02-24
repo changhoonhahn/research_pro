@@ -1,0 +1,80 @@
+10
+
+dir
+666
+http://howdy.physics.nyu.edu/svn/kcorrect/trunk/pro
+http://howdy.physics.nyu.edu/svn/kcorrect
+
+
+
+2012-09-04T20:41:01.991113Z
+665
+mb144
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+75dff457-8751-0410-ab1a-cd701654ce6b
+
+test
+dir
+
+utils
+dir
+
+lf
+dir
+
+fit
+dir
+
+samples
+dir
+
+Makefile
+file
+
+
+
+
+2014-01-27T16:33:40.000000Z
+cf627baa87c742d4a6d2ecbe21921112
+2005-06-16T13:27:43.000000Z
+425
+blanton
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+644
+
+seds
+dir
+

@@ -1,0 +1,461 @@
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/kcorrect/!svn/ver/664/trunk/pro/utils
+END
+k_write_ascii_table.pro
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/kcorrect/!svn/ver/355/trunk/pro/utils/k_write_ascii_table.pro
+END
+k_smooth.pro
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/kcorrect/!svn/ver/549/trunk/pro/utils/k_smooth.pro
+END
+c17_to_maggies.pro
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/kcorrect/!svn/ver/603/trunk/pro/utils/c17_to_maggies.pro
+END
+parse_mmt_megacam_filters.pro
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/kcorrect/!svn/ver/626/trunk/pro/utils/parse_mmt_megacam_filters.pro
+END
+flamingos2filters.pro
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/kcorrect/!svn/ver/589/trunk/pro/utils/flamingos2filters.pro
+END
+k_end_print.pro
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/kcorrect/!svn/ver/552/trunk/pro/utils/k_end_print.pro
+END
+twomass_to_maggies_psc.pro
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/kcorrect/!svn/ver/647/trunk/pro/utils/twomass_to_maggies_psc.pro
+END
+k_linear_transforms.pro
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/kcorrect/!svn/ver/526/trunk/pro/utils/k_linear_transforms.pro
+END
+k_minerror.pro
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/kcorrect/!svn/ver/647/trunk/pro/utils/k_minerror.pro
+END
+k_project_filters.pro
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/kcorrect/!svn/ver/539/trunk/pro/utils/k_project_filters.pro
+END
+k_solar_magnitudes.pro
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/kcorrect/!svn/ver/539/trunk/pro/utils/k_solar_magnitudes.pro
+END
+k_lambda_eff.pro
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/kcorrect/!svn/ver/355/trunk/pro/utils/k_lambda_eff.pro
+END
+parse_clash_filters.pro
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/kcorrect/!svn/ver/664/trunk/pro/utils/parse_clash_filters.pro
+END
+k_sdss_tests_main.pro
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/kcorrect/!svn/ver/517/trunk/pro/utils/k_sdss_tests_main.pro
+END
+risa2deep.pro
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/kcorrect/!svn/ver/355/trunk/pro/utils/risa2deep.pro
+END
+dls_to_maggies.pro
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/kcorrect/!svn/ver/561/trunk/pro/utils/dls_to_maggies.pro
+END
+k_vega2ab.pro
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/kcorrect/!svn/ver/588/trunk/pro/utils/k_vega2ab.pro
+END
+get_line.pro
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/kcorrect/!svn/ver/389/trunk/pro/utils/get_line.pro
+END
+k_str_sep.pro
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/kcorrect/!svn/ver/201/trunk/pro/utils/k_str_sep.pro
+END
+parse_wise_filters.pro
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/kcorrect/!svn/ver/653/trunk/pro/utils/parse_wise_filters.pro
+END
+c17_filterlist.pro
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/kcorrect/!svn/ver/547/trunk/pro/utils/c17_filterlist.pro
+END
+klog.pro
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/kcorrect/!svn/ver/201/trunk/pro/utils/klog.pro
+END
+k_binspec.pro
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/kcorrect/!svn/ver/532/trunk/pro/utils/k_binspec.pro
+END
+read_draine.pro
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/kcorrect/!svn/ver/392/trunk/pro/utils/read_draine.pro
+END
+galex_to_maggies.pro
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/kcorrect/!svn/ver/611/trunk/pro/utils/galex_to_maggies.pro
+END
+k_run_tests.pro
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/kcorrect/!svn/ver/526/trunk/pro/utils/k_run_tests.pro
+END
+k_make_acs_filters.pro
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/kcorrect/!svn/ver/375/trunk/pro/utils/k_make_acs_filters.pro
+END
+wise_to_maggies.pro
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/kcorrect/!svn/ver/659/trunk/pro/utils/wise_to_maggies.pro
+END
+k_plot_templates.pro
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/kcorrect/!svn/ver/392/trunk/pro/utils/k_plot_templates.pro
+END
+k_sdss_tests.pro
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/kcorrect/!svn/ver/378/trunk/pro/utils/k_sdss_tests.pro
+END
+vimos2filters.pro
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/kcorrect/!svn/ver/589/trunk/pro/utils/vimos2filters.pro
+END
+k_deep_tests.pro
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/kcorrect/!svn/ver/515/trunk/pro/utils/k_deep_tests.pro
+END
+goods_to_maggies.pro
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/kcorrect/!svn/ver/486/trunk/pro/utils/goods_to_maggies.pro
+END
+atmo_transmission.pro
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/kcorrect/!svn/ver/588/trunk/pro/utils/atmo_transmission.pro
+END
+parse_cdfs_swire_filters.pro
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/kcorrect/!svn/ver/646/trunk/pro/utils/parse_cdfs_swire_filters.pro
+END
+k_sdss_tests_lrg.pro
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/kcorrect/!svn/ver/470/trunk/pro/utils/k_sdss_tests_lrg.pro
+END
+k_maggies2lups.pro
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/kcorrect/!svn/ver/576/trunk/pro/utils/k_maggies2lups.pro
+END
+k_plot_bc_colors.pro
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/kcorrect/!svn/ver/448/trunk/pro/utils/k_plot_bc_colors.pro
+END
+k_load_filters.pro
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/kcorrect/!svn/ver/580/trunk/pro/utils/k_load_filters.pro
+END
+measure_deep_stack.pro
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/kcorrect/!svn/ver/540/trunk/pro/utils/measure_deep_stack.pro
+END
+k_sdss_bell.pro
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/kcorrect/!svn/ver/404/trunk/pro/utils/k_sdss_bell.pro
+END
+k_swire_tests.pro
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/kcorrect/!svn/ver/403/trunk/pro/utils/k_swire_tests.pro
+END
+swire_to_maggies.pro
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/kcorrect/!svn/ver/549/trunk/pro/utils/swire_to_maggies.pro
+END
+paper_plots.pro
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/kcorrect/!svn/ver/562/trunk/pro/utils/paper_plots.pro
+END
+k_bspline2.pro
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/kcorrect/!svn/ver/355/trunk/pro/utils/k_bspline2.pro
+END
+k_galex_tests.pro
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/kcorrect/!svn/ver/429/trunk/pro/utils/k_galex_tests.pro
+END
+k_photoz_test.pro
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/kcorrect/!svn/ver/487/trunk/pro/utils/k_photoz_test.pro
+END
+kcorrect_so_ext.pro
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/kcorrect/!svn/ver/304/trunk/pro/utils/kcorrect_so_ext.pro
+END
+keynote_plots.pro
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/kcorrect/!svn/ver/448/trunk/pro/utils/keynote_plots.pro
+END
+k_version.pro
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/kcorrect/!svn/ver/355/trunk/pro/utils/k_version.pro
+END
+k_abfix.pro
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/kcorrect/!svn/ver/463/trunk/pro/utils/k_abfix.pro
+END
+k_read_ascii_table.pro
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/kcorrect/!svn/ver/355/trunk/pro/utils/k_read_ascii_table.pro
+END
+get_d4000n.pro
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/kcorrect/!svn/ver/389/trunk/pro/utils/get_d4000n.pro
+END
+k_print.pro
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/kcorrect/!svn/ver/552/trunk/pro/utils/k_print.pro
+END
+stack_and_measure.pro
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/kcorrect/!svn/ver/534/trunk/pro/utils/stack_and_measure.pro
+END
+read_mappings.pro
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/kcorrect/!svn/ver/521/trunk/pro/utils/read_mappings.pro
+END
+sdss_to_maggies.pro
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/kcorrect/!svn/ver/656/trunk/pro/utils/sdss_to_maggies.pro
+END
+k_lups2maggies.pro
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/kcorrect/!svn/ver/349/trunk/pro/utils/k_lups2maggies.pro
+END
+oke.pro
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/kcorrect/!svn/ver/354/trunk/pro/utils/oke.pro
+END
+k_lambda_to_centers.pro
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/kcorrect/!svn/ver/355/trunk/pro/utils/k_lambda_to_centers.pro
+END
+k_read_tbl.pro
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/kcorrect/!svn/ver/581/trunk/pro/utils/k_read_tbl.pro
+END
+k_twomass_tests.pro
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/kcorrect/!svn/ver/430/trunk/pro/utils/k_twomass_tests.pro
+END
+k_gst_tests.pro
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/kcorrect/!svn/ver/487/trunk/pro/utils/k_gst_tests.pro
+END
+twomass_to_maggies.pro
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/kcorrect/!svn/ver/647/trunk/pro/utils/twomass_to_maggies.pro
+END
+k_derived.pro
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/kcorrect/!svn/ver/503/trunk/pro/utils/k_derived.pro
+END
+k_sdssfix.pro
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/kcorrect/!svn/ver/358/trunk/pro/utils/k_sdssfix.pro
+END
+k_sdss_err2ivar.pro
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/kcorrect/!svn/ver/355/trunk/pro/utils/k_sdss_err2ivar.pro
+END
+deep_stack.pro
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/kcorrect/!svn/ver/534/trunk/pro/utils/deep_stack.pro
+END
+k_lambda_to_edges.pro
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/kcorrect/!svn/ver/530/trunk/pro/utils/k_lambda_to_edges.pro
+END
+k_load_vmatrix.pro
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/kcorrect/!svn/ver/406/trunk/pro/utils/k_load_vmatrix.pro
+END
+k_sdss_tests_generic.pro
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/kcorrect/!svn/ver/403/trunk/pro/utils/k_sdss_tests_generic.pro
+END
+k_goods_tests.pro
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/kcorrect/!svn/ver/515/trunk/pro/utils/k_goods_tests.pro
+END
+deep_to_maggies.pro
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/kcorrect/!svn/ver/604/trunk/pro/utils/deep_to_maggies.pro
+END
+sfh_reconstruct.pro
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/kcorrect/!svn/ver/519/trunk/pro/utils/sfh_reconstruct.pro
+END
+lexi2filters.pro
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/kcorrect/!svn/ver/374/trunk/pro/utils/lexi2filters.pro
+END
+k_plot_fits.pro
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/kcorrect/!svn/ver/392/trunk/pro/utils/k_plot_fits.pro
+END

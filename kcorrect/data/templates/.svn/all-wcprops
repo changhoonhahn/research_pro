@@ -1,0 +1,161 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/kcorrect/!svn/ver/602/trunk/data/templates
+END
+lambda.default.nolines.dat
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/kcorrect/!svn/ver/567/trunk/data/templates/lambda.default.nolines.dat
+END
+vmatrix.defaultearly.dat
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/kcorrect/!svn/ver/502/trunk/data/templates/vmatrix.defaultearly.dat
+END
+k_nmf_derived.default.fits
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/kcorrect/!svn/ver/506/trunk/data/templates/k_nmf_derived.default.fits
+END
+vmatrix.default.dat
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/kcorrect/!svn/ver/502/trunk/data/templates/vmatrix.default.dat
+END
+lambda.lrg1early.dat
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/kcorrect/!svn/ver/502/trunk/data/templates/lambda.lrg1early.dat
+END
+k_nmf_derived.default.nolines.fits
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/kcorrect/!svn/ver/602/trunk/data/templates/k_nmf_derived.default.nolines.fits
+END
+vmatrix.default.nolines.dat
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/kcorrect/!svn/ver/567/trunk/data/templates/vmatrix.default.nolines.dat
+END
+k_nmf_spec.default.fits
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/kcorrect/!svn/ver/427/trunk/data/templates/k_nmf_spec.default.fits
+END
+lambda.lrg1.dat
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/kcorrect/!svn/ver/473/trunk/data/templates/lambda.lrg1.dat
+END
+k_nmf_soln.lrg1.fits
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/kcorrect/!svn/ver/473/trunk/data/templates/k_nmf_soln.lrg1.fits
+END
+lambda.goodsearly.dat
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/kcorrect/!svn/ver/502/trunk/data/templates/lambda.goodsearly.dat
+END
+lambda.goods.dat
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/kcorrect/!svn/ver/502/trunk/data/templates/lambda.goods.dat
+END
+linelist.txt
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/kcorrect/!svn/ver/328/trunk/data/templates/linelist.txt
+END
+vmatrix.lrg1early.dat
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/kcorrect/!svn/ver/473/trunk/data/templates/vmatrix.lrg1early.dat
+END
+k_nmf_soln.goods.fits
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/kcorrect/!svn/ver/502/trunk/data/templates/k_nmf_soln.goods.fits
+END
+k_nmf_derived.lrg1.fits
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/kcorrect/!svn/ver/507/trunk/data/templates/k_nmf_derived.lrg1.fits
+END
+vmatrix.lrg1.dat
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/kcorrect/!svn/ver/473/trunk/data/templates/vmatrix.lrg1.dat
+END
+lambda.defaultearly.dat
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/kcorrect/!svn/ver/502/trunk/data/templates/lambda.defaultearly.dat
+END
+vmatrix.goodsearly.dat
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/kcorrect/!svn/ver/502/trunk/data/templates/vmatrix.goodsearly.dat
+END
+lambda.default.dat
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/kcorrect/!svn/ver/502/trunk/data/templates/lambda.default.dat
+END
+k_nmf_derived.goods.fits
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/kcorrect/!svn/ver/506/trunk/data/templates/k_nmf_derived.goods.fits
+END
+sdss_filters.dat
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/kcorrect/!svn/ver/219/trunk/data/templates/sdss_filters.dat
+END
+vmatrix.goods.dat
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/kcorrect/!svn/ver/502/trunk/data/templates/vmatrix.goods.dat
+END
+k_nmf_spec.lrg1.fits
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/kcorrect/!svn/ver/473/trunk/data/templates/k_nmf_spec.lrg1.fits
+END
+k_nmf_soln.default.fits
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/kcorrect/!svn/ver/502/trunk/data/templates/k_nmf_soln.default.fits
+END
+.cvsignore
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/kcorrect/!svn/ver/415/trunk/data/templates/.cvsignore
+END

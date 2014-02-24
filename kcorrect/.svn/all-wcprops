@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 32
+/svn/kcorrect/!svn/ver/666/trunk
+END
+v3_1b_msg
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/kcorrect/!svn/ver/230/trunk/v3_1b_msg
+END
+INSTALL
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/kcorrect/!svn/ver/228/trunk/INSTALL
+END
+RELEASE_NOTES
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/kcorrect/!svn/ver/640/trunk/RELEASE_NOTES
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/kcorrect/!svn/ver/347/trunk/Makefile
+END

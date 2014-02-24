@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/kcorrect/!svn/ver/589/trunk/data/filters/vimos
+END
+B_total_transmission.dat
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/kcorrect/!svn/ver/589/trunk/data/filters/vimos/B_total_transmission.dat
+END
+R_total_transmission.dat
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/kcorrect/!svn/ver/589/trunk/data/filters/vimos/R_total_transmission.dat
+END
+U_total_transmission.dat
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/kcorrect/!svn/ver/589/trunk/data/filters/vimos/U_total_transmission.dat
+END
+V_total_transmission.dat
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/kcorrect/!svn/ver/589/trunk/data/filters/vimos/V_total_transmission.dat
+END
+I_total_transmission.dat
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/kcorrect/!svn/ver/589/trunk/data/filters/vimos/I_total_transmission.dat
+END

@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/kcorrect/!svn/ver/636/trunk/bin
+END
+k_run_pegase
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/kcorrect/!svn/ver/552/trunk/bin/k_run_pegase
+END
+k_tag_and_release
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/kcorrect/!svn/ver/636/trunk/bin/k_tag_and_release
+END
+kevilmake
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/kcorrect/!svn/ver/605/trunk/bin/kevilmake
+END
+run_pegase
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/kcorrect/!svn/ver/346/trunk/bin/run_pegase
+END
+.cvsignore
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/kcorrect/!svn/ver/225/trunk/bin/.cvsignore
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/kcorrect/!svn/ver/287/trunk/bin/Makefile
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/kcorrect/!svn/ver/2/trunk/bin/README
+END
+nmf_to_template
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/kcorrect/!svn/ver/492/trunk/bin/nmf_to_template
+END
+do_bin_ised
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/kcorrect/!svn/ver/386/trunk/bin/do_bin_ised
+END

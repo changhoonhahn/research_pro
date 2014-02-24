@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/kcorrect/!svn/ver/583/trunk/pro/seds
+END
+k_read_peg.pro
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/kcorrect/!svn/ver/355/trunk/pro/seds/k_read_peg.pro
+END
+k_mkspec_pegase.pro
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/kcorrect/!svn/ver/349/trunk/pro/seds/k_mkspec_pegase.pro
+END
+k_im_read_bc03.pro
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/kcorrect/!svn/ver/404/trunk/pro/seds/k_im_read_bc03.pro
+END
+k_nmf_mmatrix_combo17.pro
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/kcorrect/!svn/ver/547/trunk/pro/seds/k_nmf_mmatrix_combo17.pro
+END
+k_imf.pro
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/kcorrect/!svn/ver/552/trunk/pro/seds/k_imf.pro
+END
+k_spec_pegase.pro
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/kcorrect/!svn/ver/355/trunk/pro/seds/k_spec_pegase.pro
+END
+readfast.pro
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/kcorrect/!svn/ver/483/trunk/pro/seds/readfast.pro
+END
+k_read_basel.pro
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/kcorrect/!svn/ver/539/trunk/pro/seds/k_read_basel.pro
+END
+k_nmf_mmatrix.pro
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/kcorrect/!svn/ver/514/trunk/pro/seds/k_nmf_mmatrix.pro
+END
+k_nmf_mmatrix_photoz.pro
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/kcorrect/!svn/ver/448/trunk/pro/seds/k_nmf_mmatrix_photoz.pro
+END
+k_nmf_mmatrix_lrg.pro
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/kcorrect/!svn/ver/514/trunk/pro/seds/k_nmf_mmatrix_lrg.pro
+END
+k_interp_pegase.pro
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/kcorrect/!svn/ver/355/trunk/pro/seds/k_interp_pegase.pro
+END
+k_emlines.pro
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/kcorrect/!svn/ver/583/trunk/pro/seds/k_emlines.pro
+END
+witt_ext.pro
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/kcorrect/!svn/ver/400/trunk/pro/seds/witt_ext.pro
+END
+k_read_dale.pro
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/kcorrect/!svn/ver/549/trunk/pro/seds/k_read_dale.pro
+END
+k_qa_nmf.pro
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/kcorrect/!svn/ver/482/trunk/pro/seds/k_qa_nmf.pro
+END

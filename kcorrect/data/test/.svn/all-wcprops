@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/kcorrect/!svn/ver/474/trunk/data/test
+END
+spobj_test.fits
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/kcorrect/!svn/ver/426/trunk/data/test/spobj_test.fits
+END
+calibplate_test.fits
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/kcorrect/!svn/ver/426/trunk/data/test/calibplate_test.fits
+END
+gst_tests.fits
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/kcorrect/!svn/ver/474/trunk/data/test/gst_tests.fits
+END
+.cvsignore
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/kcorrect/!svn/ver/420/trunk/data/test/.cvsignore
+END
+obj_test.fits
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/kcorrect/!svn/ver/426/trunk/data/test/obj_test.fits
+END

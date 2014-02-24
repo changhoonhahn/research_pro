@@ -1,0 +1,167 @@
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/kcorrect/!svn/ver/631/trunk/pro/test
+END
+compare_johnson_sdss.pro
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/kcorrect/!svn/ver/265/trunk/pro/test/compare_johnson_sdss.pro
+END
+andrey_dust.pro
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/kcorrect/!svn/ver/293/trunk/pro/test/andrey_dust.pro
+END
+compare_maggies.pro
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/kcorrect/!svn/ver/316/trunk/pro/test/compare_maggies.pro
+END
+test_photoz.pro
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/kcorrect/!svn/ver/265/trunk/pro/test/test_photoz.pro
+END
+test_kcorrect_standalone.pro
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/kcorrect/!svn/ver/237/trunk/pro/test/test_kcorrect_standalone.pro
+END
+datasweep_lrg_photoz.pro
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/kcorrect/!svn/ver/484/trunk/pro/test/datasweep_lrg_photoz.pro
+END
+test_vs_old.pro
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/kcorrect/!svn/ver/215/trunk/pro/test/test_vs_old.pro
+END
+test_spec.pro
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/kcorrect/!svn/ver/412/trunk/pro/test/test_spec.pro
+END
+isolate_red.pro
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/kcorrect/!svn/ver/389/trunk/pro/test/isolate_red.pro
+END
+match_swire_combo17.pro
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/kcorrect/!svn/ver/552/trunk/pro/test/match_swire_combo17.pro
+END
+twomass_dust.pro
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/kcorrect/!svn/ver/295/trunk/pro/test/twomass_dust.pro
+END
+test_kphotoz.pro
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/kcorrect/!svn/ver/293/trunk/pro/test/test_kphotoz.pro
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/kcorrect/!svn/ver/356/trunk/pro/test/README
+END
+test_galex.pro
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/kcorrect/!svn/ver/310/trunk/pro/test/test_galex.pro
+END
+test_wiggles.pro
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/kcorrect/!svn/ver/247/trunk/pro/test/test_wiggles.pro
+END
+create_old.pro
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/kcorrect/!svn/ver/215/trunk/pro/test/create_old.pro
+END
+check_cnoc2.pro
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/kcorrect/!svn/ver/215/trunk/pro/test/check_cnoc2.pro
+END
+test_christi_dust.pro
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/kcorrect/!svn/ver/295/trunk/pro/test/test_christi_dust.pro
+END
+lrg_colors.pro
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/kcorrect/!svn/ver/631/trunk/pro/test/lrg_colors.pro
+END
+test_kphotoz_standalone.pro
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/kcorrect/!svn/ver/228/trunk/pro/test/test_kphotoz_standalone.pro
+END
+test_payam.pro
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/kcorrect/!svn/ver/345/trunk/pro/test/test_payam.pro
+END
+test_all.pro
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/kcorrect/!svn/ver/228/trunk/pro/test/test_all.pro
+END
+swire_plot_bruce.pro
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/kcorrect/!svn/ver/400/trunk/pro/test/swire_plot_bruce.pro
+END
+mk_test_sample.pro
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/kcorrect/!svn/ver/228/trunk/pro/test/mk_test_sample.pro
+END
+mk_demo_kcorrect.pro
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/kcorrect/!svn/ver/266/trunk/pro/test/mk_demo_kcorrect.pro
+END
+mk_demo.pro
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/kcorrect/!svn/ver/228/trunk/pro/test/mk_demo.pro
+END
+test_kcorrect.pro
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/kcorrect/!svn/ver/237/trunk/pro/test/test_kcorrect.pro
+END

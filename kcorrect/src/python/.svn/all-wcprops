@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/kcorrect/!svn/ver/347/trunk/src/python
+END
+Setup
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/kcorrect/!svn/ver/221/trunk/src/python/Setup
+END
+real.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/kcorrect/!svn/ver/222/trunk/src/python/real.c
+END
+tiny.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/kcorrect/!svn/ver/222/trunk/src/python/tiny.c
+END
+config.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/kcorrect/!svn/ver/222/trunk/src/python/config.c
+END
+Makefile.pre.in
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/kcorrect/!svn/ver/221/trunk/src/python/Makefile.pre.in
+END
+Testy.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/kcorrect/!svn/ver/222/trunk/src/python/Testy.c
+END
+Testy2.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/kcorrect/!svn/ver/222/trunk/src/python/Testy2.c
+END
+Testy3.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/kcorrect/!svn/ver/222/trunk/src/python/Testy3.c
+END
+.cvsignore
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/kcorrect/!svn/ver/221/trunk/src/python/.cvsignore
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/kcorrect/!svn/ver/347/trunk/src/python/README
+END

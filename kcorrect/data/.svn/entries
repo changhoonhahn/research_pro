@@ -1,0 +1,83 @@
+10
+
+dir
+666
+http://howdy.physics.nyu.edu/svn/kcorrect/trunk/data
+http://howdy.physics.nyu.edu/svn/kcorrect
+
+
+
+2011-08-22T17:22:53.542101Z
+664
+ioannis
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+75dff457-8751-0410-ab1a-cd701654ce6b
+
+test
+dir
+
+dustmodels
+dir
+
+basel
+dir
+
+filters
+dir
+
+redshifts
+dir
+
+Makefile
+file
+
+
+
+
+2014-01-27T16:34:27.000000Z
+04f47120d6a54a81294b9be294152a6b
+2005-06-16T20:40:28.000000Z
+427
+blanton
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+579
+
+seds
+dir
+
+templates
+dir
+

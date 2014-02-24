@@ -1,0 +1,227 @@
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/kcorrect/!svn/ver/665/trunk/pro/lf
+END
+lf_distmod.pro
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/kcorrect/!svn/ver/451/trunk/pro/lf/lf_distmod.pro
+END
+lf_select_eep.pro
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/kcorrect/!svn/ver/451/trunk/pro/lf/lf_select_eep.pro
+END
+lf_sample_schechter.pro
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/kcorrect/!svn/ver/355/trunk/pro/lf/lf_sample_schechter.pro
+END
+lf_fit_schechter.pro
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/kcorrect/!svn/ver/355/trunk/pro/lf/lf_fit_schechter.pro
+END
+lf_vmax.pro
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/kcorrect/!svn/ver/355/trunk/pro/lf/lf_vmax.pro
+END
+lf_schechter_nden.pro
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/kcorrect/!svn/ver/355/trunk/pro/lf/lf_schechter_nden.pro
+END
+lf_erf.pro
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/kcorrect/!svn/ver/355/trunk/pro/lf/lf_erf.pro
+END
+lf_fit_schechter_plus.pro
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/kcorrect/!svn/ver/629/trunk/pro/lf/lf_fit_schechter_plus.pro
+END
+lf_schechter_mden_plus.pro
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/kcorrect/!svn/ver/355/trunk/pro/lf/lf_schechter_mden_plus.pro
+END
+lf_test.pro
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/kcorrect/!svn/ver/355/trunk/pro/lf/lf_test.pro
+END
+lf_schechter_nden_plus.pro
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/kcorrect/!svn/ver/573/trunk/pro/lf/lf_schechter_nden_plus.pro
+END
+lf_amdist_plot.pro
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/kcorrect/!svn/ver/349/trunk/pro/lf/lf_amdist_plot.pro
+END
+lf_mean_density.pro
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/kcorrect/!svn/ver/355/trunk/pro/lf/lf_mean_density.pro
+END
+lf_npgauss.pro
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/kcorrect/!svn/ver/355/trunk/pro/lf/lf_npgauss.pro
+END
+lf_simple_vmax.pro
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/kcorrect/!svn/ver/660/trunk/pro/lf/lf_simple_vmax.pro
+END
+lf_mock_npgauss.pro
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/kcorrect/!svn/ver/355/trunk/pro/lf/lf_mock_npgauss.pro
+END
+m2vmax.pro
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/kcorrect/!svn/ver/581/trunk/pro/lf/m2vmax.pro
+END
+lf_calc_vmax.pro
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/kcorrect/!svn/ver/664/trunk/pro/lf/lf_calc_vmax.pro
+END
+lf_selfunc_npgauss.pro
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/kcorrect/!svn/ver/355/trunk/pro/lf/lf_selfunc_npgauss.pro
+END
+lf_comvol.pro
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/kcorrect/!svn/ver/665/trunk/pro/lf/lf_comvol.pro
+END
+lf_normalize.pro
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/kcorrect/!svn/ver/355/trunk/pro/lf/lf_normalize.pro
+END
+lf_vtoz.pro
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/kcorrect/!svn/ver/451/trunk/pro/lf/lf_vtoz.pro
+END
+lf_schechter_counts.pro
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/kcorrect/!svn/ver/355/trunk/pro/lf/lf_schechter_counts.pro
+END
+lf_schechter.pro
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/kcorrect/!svn/ver/355/trunk/pro/lf/lf_schechter.pro
+END
+lf_eep.pro
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/kcorrect/!svn/ver/451/trunk/pro/lf/lf_eep.pro
+END
+lf_schechter_plus.pro
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/kcorrect/!svn/ver/404/trunk/pro/lf/lf_schechter_plus.pro
+END
+lf_schechter_mden.pro
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/kcorrect/!svn/ver/355/trunk/pro/lf/lf_schechter_mden.pro
+END
+lf_t2z.pro
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/kcorrect/!svn/ver/459/trunk/pro/lf/lf_t2z.pro
+END
+lf_erfc.pro
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/kcorrect/!svn/ver/355/trunk/pro/lf/lf_erfc.pro
+END
+lf_z2t.pro
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/kcorrect/!svn/ver/459/trunk/pro/lf/lf_z2t.pro
+END
+lf_sample_npgauss.pro
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/kcorrect/!svn/ver/355/trunk/pro/lf/lf_sample_npgauss.pro
+END
+lf_plotps.pro
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/kcorrect/!svn/ver/355/trunk/pro/lf/lf_plotps.pro
+END
+lf_mock_schechter.pro
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/kcorrect/!svn/ver/355/trunk/pro/lf/lf_mock_schechter.pro
+END
+k_evolve.pro
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/kcorrect/!svn/ver/347/trunk/pro/lf/k_evolve.pro
+END
+lf_md_eep.pro
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/kcorrect/!svn/ver/355/trunk/pro/lf/lf_md_eep.pro
+END
+vmax2m.pro
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/kcorrect/!svn/ver/581/trunk/pro/lf/vmax2m.pro
+END
+lf_zdist_plot.pro
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/kcorrect/!svn/ver/355/trunk/pro/lf/lf_zdist_plot.pro
+END

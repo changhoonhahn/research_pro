@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/kcorrect/!svn/ver/347/trunk/test
+END
+sample.fits
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/kcorrect/!svn/ver/228/trunk/test/sample.fits
+END
+sample.dat
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/kcorrect/!svn/ver/228/trunk/test/sample.dat
+END
+.cvsignore
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/kcorrect/!svn/ver/111/trunk/test/.cvsignore
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/kcorrect/!svn/ver/347/trunk/test/Makefile
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/kcorrect/!svn/ver/265/trunk/test/README
+END

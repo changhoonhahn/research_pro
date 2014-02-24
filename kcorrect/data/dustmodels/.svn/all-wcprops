@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/kcorrect/!svn/ver/130/trunk/data/dustmodels
+END
+table2_dusty.txt
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/kcorrect/!svn/ver/130/trunk/data/dustmodels/table2_dusty.txt
+END
+table3_shell.txt
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/kcorrect/!svn/ver/130/trunk/data/dustmodels/table3_shell.txt
+END
+extract_witt
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/kcorrect/!svn/ver/130/trunk/data/dustmodels/extract_witt
+END
+do.extract_witt
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/kcorrect/!svn/ver/130/trunk/data/dustmodels/do.extract_witt
+END
+table4_cloudy.txt
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/kcorrect/!svn/ver/130/trunk/data/dustmodels/table4_cloudy.txt
+END
+.cvsignore
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/kcorrect/!svn/ver/130/trunk/data/dustmodels/.cvsignore
+END

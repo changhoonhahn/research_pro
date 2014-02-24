@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/kcorrect/!svn/ver/295/trunk/data/seds/kc96
+END
+starb5_template.fits
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/kcorrect/!svn/ver/295/trunk/data/seds/kc96/starb5_template.fits
+END
+starb6_template.fits
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/kcorrect/!svn/ver/295/trunk/data/seds/kc96/starb6_template.fits
+END
+elliptical_template.fits
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/kcorrect/!svn/ver/295/trunk/data/seds/kc96/elliptical_template.fits
+END
+retrieve_kc96
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/kcorrect/!svn/ver/295/trunk/data/seds/kc96/retrieve_kc96
+END
+s0_template.fits
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/kcorrect/!svn/ver/295/trunk/data/seds/kc96/s0_template.fits
+END
+sa_template.fits
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/kcorrect/!svn/ver/295/trunk/data/seds/kc96/sa_template.fits
+END
+sb_template.fits
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/kcorrect/!svn/ver/295/trunk/data/seds/kc96/sb_template.fits
+END
+sc_template.fits
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/kcorrect/!svn/ver/295/trunk/data/seds/kc96/sc_template.fits
+END
+AA_README_KC96
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/kcorrect/!svn/ver/295/trunk/data/seds/kc96/AA_README_KC96
+END
+starb1_template.fits
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/kcorrect/!svn/ver/295/trunk/data/seds/kc96/starb1_template.fits
+END
+starb2_template.fits
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/kcorrect/!svn/ver/295/trunk/data/seds/kc96/starb2_template.fits
+END
+bulge_template.fits
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/kcorrect/!svn/ver/295/trunk/data/seds/kc96/bulge_template.fits
+END
+starb3_template.fits
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/kcorrect/!svn/ver/295/trunk/data/seds/kc96/starb3_template.fits
+END
+starb4_template.fits
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/kcorrect/!svn/ver/295/trunk/data/seds/kc96/starb4_template.fits
+END

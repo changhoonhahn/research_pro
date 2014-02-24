@@ -1,0 +1,9 @@
+K 10
+svn:ignore
+V 43
+paper.ps
+kcorrect_help.html
+*.gif
+*.tar.gz
+
+END

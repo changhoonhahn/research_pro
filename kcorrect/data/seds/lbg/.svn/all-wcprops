@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/kcorrect/!svn/ver/299/trunk/data/seds/lbg
+END
+lyaem4.fits
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/kcorrect/!svn/ver/296/trunk/data/seds/lbg/lyaem4.fits
+END
+spliced_alice.fits
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/kcorrect/!svn/ver/299/trunk/data/seds/lbg/spliced_alice.fits
+END
+all.fits
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/kcorrect/!svn/ver/296/trunk/data/seds/lbg/all.fits
+END
+lyaem1.fits
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/kcorrect/!svn/ver/296/trunk/data/seds/lbg/lyaem1.fits
+END
+lyaem2.fits
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/kcorrect/!svn/ver/296/trunk/data/seds/lbg/lyaem2.fits
+END
+lyaem3.fits
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/kcorrect/!svn/ver/296/trunk/data/seds/lbg/lyaem3.fits
+END

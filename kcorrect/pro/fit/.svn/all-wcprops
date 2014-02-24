@@ -1,0 +1,155 @@
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/kcorrect/!svn/ver/663/trunk/pro/fit
+END
+k_reconstruct_maggies.pro
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/kcorrect/!svn/ver/349/trunk/pro/fit/k_reconstruct_maggies.pro
+END
+fit_sdss_fiber.pro
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/kcorrect/!svn/ver/509/trunk/pro/fit/fit_sdss_fiber.pro
+END
+k_tweak_photoz.pro
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/kcorrect/!svn/ver/452/trunk/pro/fit/k_tweak_photoz.pro
+END
+gst_kcorrect.pro
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/kcorrect/!svn/ver/521/trunk/pro/fit/gst_kcorrect.pro
+END
+twomass_kcorrect.pro
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/kcorrect/!svn/ver/579/trunk/pro/fit/twomass_kcorrect.pro
+END
+sdss2goods.pro
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/kcorrect/!svn/ver/521/trunk/pro/fit/sdss2goods.pro
+END
+sdss_kphotoz.pro
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/kcorrect/!svn/ver/644/trunk/pro/fit/sdss_kphotoz.pro
+END
+galex_kcorrect.pro
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/kcorrect/!svn/ver/586/trunk/pro/fit/galex_kcorrect.pro
+END
+sdss2deep.pro
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/kcorrect/!svn/ver/537/trunk/pro/fit/sdss2deep.pro
+END
+k_projection_table.pro
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/kcorrect/!svn/ver/612/trunk/pro/fit/k_projection_table.pro
+END
+k_fit_image.pro
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/kcorrect/!svn/ver/441/trunk/pro/fit/k_fit_image.pro
+END
+kphotoz.pro
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/kcorrect/!svn/ver/406/trunk/pro/fit/kphotoz.pro
+END
+k_reconstruct_spec.pro
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/kcorrect/!svn/ver/625/trunk/pro/fit/k_reconstruct_spec.pro
+END
+k_fit_photoz.pro
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/kcorrect/!svn/ver/347/trunk/pro/fit/k_fit_photoz.pro
+END
+k_fit_nonneg.pro
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/kcorrect/!svn/ver/582/trunk/pro/fit/k_fit_nonneg.pro
+END
+k_tweak_templates.pro
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/kcorrect/!svn/ver/453/trunk/pro/fit/k_tweak_templates.pro
+END
+k_fit_spec.pro
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/kcorrect/!svn/ver/654/trunk/pro/fit/k_fit_spec.pro
+END
+sdss2bands.pro
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/kcorrect/!svn/ver/547/trunk/pro/fit/sdss2bands.pro
+END
+goods_kcorrect.pro
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/kcorrect/!svn/ver/521/trunk/pro/fit/goods_kcorrect.pro
+END
+sdss2bessell.pro
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/kcorrect/!svn/ver/552/trunk/pro/fit/sdss2bessell.pro
+END
+sdss_kcorrect.pro
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/kcorrect/!svn/ver/624/trunk/pro/fit/sdss_kcorrect.pro
+END
+deep_kcorrect.pro
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/kcorrect/!svn/ver/663/trunk/pro/fit/deep_kcorrect.pro
+END
+k_fit_templates.pro
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/kcorrect/!svn/ver/477/trunk/pro/fit/k_fit_templates.pro
+END
+kcorrect.pro
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/kcorrect/!svn/ver/565/trunk/pro/fit/kcorrect.pro
+END
+k_run_nmf.pro
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/kcorrect/!svn/ver/445/trunk/pro/fit/k_run_nmf.pro
+END

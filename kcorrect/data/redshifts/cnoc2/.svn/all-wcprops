@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/kcorrect/!svn/ver/322/trunk/data/redshifts/cnoc2
+END
+README.cnoc2
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/kcorrect/!svn/ver/321/trunk/data/redshifts/cnoc2/README.cnoc2
+END
+cnoc2-obj.fits
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/kcorrect/!svn/ver/214/trunk/data/redshifts/cnoc2/cnoc2-obj.fits
+END
+cnoc2-childobj.fits
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/kcorrect/!svn/ver/214/trunk/data/redshifts/cnoc2/cnoc2-childobj.fits
+END
+cnoc2.fits
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/kcorrect/!svn/ver/214/trunk/data/redshifts/cnoc2/cnoc2.fits
+END
+retrieve_cnoc2
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/kcorrect/!svn/ver/214/trunk/data/redshifts/cnoc2/retrieve_cnoc2
+END
+.cvsignore
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/kcorrect/!svn/ver/225/trunk/data/redshifts/cnoc2/.cvsignore
+END
+ReadMe
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/kcorrect/!svn/ver/225/trunk/data/redshifts/cnoc2/ReadMe
+END

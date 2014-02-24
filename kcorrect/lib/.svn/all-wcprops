@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/kcorrect/!svn/ver/630/trunk/lib
+END
+kcorrect.py
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/kcorrect/!svn/ver/622/trunk/lib/kcorrect.py
+END
+.cvsignore
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/kcorrect/!svn/ver/321/trunk/lib/.cvsignore
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/kcorrect/!svn/ver/308/trunk/lib/Makefile
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/kcorrect/!svn/ver/2/trunk/lib/README
+END

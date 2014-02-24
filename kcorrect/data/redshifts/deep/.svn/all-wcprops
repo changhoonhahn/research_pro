@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/kcorrect/!svn/ver/542/trunk/data/redshifts/deep
+END
+get_deep
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/kcorrect/!svn/ver/542/trunk/data/redshifts/deep/get_deep
+END
+.cvsignore
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/kcorrect/!svn/ver/351/trunk/data/redshifts/deep/.cvsignore
+END

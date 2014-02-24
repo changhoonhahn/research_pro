@@ -1,0 +1,236 @@
+\clearpage
+
+\setcounter{thefigs}{0}
+
+\clearpage
+\stepcounter{thefigs}
+\begin{figure}
+\figurenum{\fignum}
+\plotone{spec_lrg.ps}
+\caption{\label{spec_lrg} Best fit LRG spectral template in the rest
+frame (normalization is for a 1 $M_\odot$ galaxy located 10 pc away,
+or equivalently a $10^{12}$ $M_\odot$ galaxy located 10 Mpc away).}
+\end{figure}
+
+\clearpage
+\stepcounter{thefigs}
+\begin{figure}
+\figurenum{\fignum}
+\plotone{sfh_lrg.ps}
+\caption{\label{sfh_lrg} Star-formation history corresponding to LRG
+	spectral template of Figure \ref{spec_lrg}. Top panel shows the
+	number of stars formed per logarithmic time interval ($t$ is
+	expressed in years, curve is normalized for a $10^{12}$ $M_\odot$
+	galaxy). Almost all of the stars are formed in the first couple of
+	billion years --- note that the recent ``spike'' is represents a
+	tiny fraction ($\sim 10^{-8}$) of the total number of stars. Bottom
+	panel shows the mean metallicity of the population as a function of
+	time. Note that the details of these functions are rather poorly
+	constrained. }
+\end{figure}
+
+\clearpage
+\stepcounter{thefigs}
+\begin{figure}
+\figurenum{\fignum}
+\plotone{lrg_colors.ps}
+\caption{\label{lrg_colors} SDSS colors of LRGs as a function of
+	redshift. The greyscale is the conditional distribution of color
+	within each redshift bin. The thin lines are the 10\%, 25\%, 50\%,
+	75\%, and 90\% quantiles of the distribution. The thick line
+	is the prediction of the model. The $u$ band is not included in the
+	fit, and the $u$ magnitudes of most LRGs are poorly known. The other
+	colors fit the models reasonably well. This model, remember, is
+	given incredible freedom, meaning that the above agreement is the
+	best one can do with the stellar population synthesis code of
+	\citet{bruzual03a}. }
+\end{figure}
+
+\clearpage
+\stepcounter{thefigs}
+\begin{figure}
+\figurenum{\fignum}
+\plotone{sfh_templates.ps}
+\caption{\label{sfh_templates} Similar to Figure \ref{sfh_lrg}, but
+for the five global templates. Again, there are many degeneracies in
+the fit parameters (though there are fewer in the actual spectra), so
+these figures need to be interpreted appropriately.}
+\end{figure}
+
+\clearpage
+\stepcounter{thefigs}
+\begin{figure}
+\figurenum{\fignum}
+\plotone{fullfits.ps}
+\caption{\label{fullfits} Color residuals (defined explicitly in the
+	text) of GALEX, SDSS, and 2MASS observations relative to our best
+	fit 5-template model.  The greyscale is the conditional distribution
+	of the color residual given the redshift.  The thin lines are the
+	10\%, 25\%, 50\%, 75\%, and 90\% quantiles of the distribution. The
+	thick dashed lines show the estimated 1$\sigma$ uncertainties in the
+	colors from the photometric catalogs. Relative to the uncertainties,
+	there are no significant biases or redshift trends in these fits. }
+\end{figure}
+
+\clearpage
+\stepcounter{thefigs}
+\begin{figure}
+\figurenum{\fignum}
+\plotone{goods.ps}
+\caption{\label{goods} Color residuals in fit using the standard five
+templates to GOODS data, compared to the typical uncertainties (thick
+dashed lines). Note that the fits always do poorly on the $H$ band,
+which we believe to be a catalog error. }
+\end{figure}
+
+\clearpage
+\stepcounter{thefigs}
+\begin{figure}
+\figurenum{\fignum}
+\plotone{goods_special.ps}
+\caption{\label{goods_special} Same as Figure \ref{goods}, but fitting
+using five templates specially designed for GOODS. These templates
+have smaller residuals in many respects but still fail to fit the $H$
+band data. }
+\end{figure}
+
+\clearpage
+\stepcounter{thefigs}
+\begin{figure}
+\figurenum{\fignum}
+\plotone{specfit.ps}
+\caption{\label{specfit} Best fit model spectra based on the five
+template fit to $g$, $r$ and $i$ fluxes, compared to the original
+SDSS spectra from which we computed those fluxes.  The models and the
+original spectra agree very well.}
+\end{figure}
+
+\clearpage
+\stepcounter{thefigs}
+\begin{figure}
+\figurenum{\fignum}
+\plotone{twomass_resid.ps}
+\caption{\label{twomass_resid} Similar to Figure \ref{fullfits} but
+for galaxies observed in both SDSS and 2MASS and only using SDSS and
+2MASS bands. The fits are to the SDSS and 2MASS data together.}
+\end{figure}
+
+\clearpage
+\stepcounter{thefigs}
+\begin{figure}
+\figurenum{\fignum}
+\plotone{twomass_predicted.ps}
+\caption{\label{twomass_predicted} Similar to Figure
+\ref{twomass_resid} but now the fits are {\it only} to the SDSS
+bands. The residuals in the 2MASS bands remain very small, indicating
+that the 2MASS measurements do not add a lot of information about
+these galaxies.}
+\end{figure}
+
+\clearpage
+\stepcounter{thefigs}
+\begin{figure}
+\figurenum{\fignum}
+\plotone{galex_resid.ps}
+\caption{\label{galex_resid} Similar to Figure \ref{twomass_resid} but
+for galaxies observed in both SDSS and GALEX and only using SDSS and
+GALEX bands. The fits are to the SDSS and GALEX data together.}
+\end{figure}
+
+\clearpage
+\stepcounter{thefigs}
+\begin{figure}
+\figurenum{\fignum}
+\plotone{galex_predicted.ps}
+\caption{\label{galex_predicted} Similar to Figure
+\ref{galex_resid} but now the fits are {\it only} to the SDSS
+bands. }
+\end{figure}
+
+\clearpage
+\stepcounter{thefigs}
+\begin{figure}
+\figurenum{\fignum}
+\plotone{galex_kcorrect.ps}
+\caption{\label{galex_kcorrect} $K$-corrections as a function of
+redshift in the GALEX near (N) and far (F) UV bands. }
+\end{figure}
+
+\clearpage
+\stepcounter{thefigs}
+\begin{figure}
+\figurenum{\fignum}
+\plotone{twomass_kcorrect.ps}
+\caption{\label{twomass_kcorrect} $K$-corrections as a function of
+redshift in the 2MASS $J$, $H$ and $K_s$ bands.}
+\end{figure}
+
+\clearpage
+\stepcounter{thefigs}
+\begin{figure}
+\figurenum{\fignum}
+\plotone{sdss_kcorrect.ps}
+\caption{\label{sdss_kcorrect} $K$-corrections as a function of
+redshift in the SDSS $u$, $g$, $r$, $i$, and $z$ bands.}
+\end{figure}
+
+\clearpage
+\stepcounter{thefigs}
+\begin{figure}
+\figurenum{\fignum}
+\plotone{main_kcorrect.ps}
+\caption{\label{main_kcorrect} Same as Figure \ref{sdss_kcorrect}, but
+$K$-correcting to the \band{0.1}{u}, \band{0.1}{g}, \band{0.1}{r},
+\band{0.1}{i}, and \band{0.1}{z} bands.}  
+\end{figure}
+
+\clearpage
+\stepcounter{thefigs}
+\begin{figure}
+\figurenum{\fignum}
+\plotone{mass_to_garching.ps}
+\caption{\label{mass_to_garching} Our galaxy stellar mass estimates
+	$M_\ast$ compared to those of \citet{kauffmann03a} $M_{s,\ast}$, as
+	a function of stellar mass (top panel) and of color (bottom
+	panel). The greyscale is the conditional distribution
+	$M_{s,\ast}/M_\ast$ on each quantity . The lines are the 10\%, 25\%,
+	50\%, 75\% and 90\% quantiles.}
+\end{figure}
+
+\clearpage
+\stepcounter{thefigs}
+\begin{figure}
+\figurenum{\fignum}
+\plotone{mtol.ps}
+\caption{\label{mtol} Mass-to-light ratios of galaxies in the $V$ band
+	(in solar units) as a function of galaxy $B-V$ color. The solid line
+	satisfies the relationship $\log_{10}(M/L_V) = 1.40 (g-r) - 0.73$,
+	given by \citet{bell01b} for their sample of spiral galaxies. 
+	Their estimates and ours agree for $B-V < 0.8$, where spiral
+	galaxies dominate the galaxy population.}
+\end{figure}
+
+\clearpage
+\stepcounter{thefigs}
+\begin{figure}
+\figurenum{\fignum}
+\plotone{umr_bg.ps}
+\caption{\label{umr_bg} Fraction of the total star-formation that has
+	occurred in the previous 300 Myr $b_{300}$, as a function of
+	restframe $u-r$ color, for SDSS galaxies. The greyscale is the
+	conditional distribution of $b_{300}$ on $u-r$. The lines are the 10\%,
+	25\%, 50\%, 75\% and 90\% quantiles.  For comparison we show the
+	results of using the scaling of \citet{hopkins03a}.}
+\end{figure}
+
+\clearpage
+\stepcounter{thefigs}
+\begin{figure}
+\figurenum{\fignum}
+\plotone{lemma.eps}
+\caption{\label{lemma} Example diagram of definition of $\phi$ in the
+	text. $\chi^2$ represents the actual $\chi^2$ while $\phi$ is
+	designed such that it exceeds $\chi^2$ except at the single point
+	$W$. By minimizing $\phi$ we can find a point $W^\ast$ that we know
+	to have an equal or better $\chi^2$ than that at $W$. }
+\end{figure}

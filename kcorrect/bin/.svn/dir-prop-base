@@ -1,0 +1,10 @@
+K 10
+svn:ignore
+V 69
+fit_coeffs
+fit_photoz
+reconstruct_maggies
+color_interp
+k_test_filter
+
+END

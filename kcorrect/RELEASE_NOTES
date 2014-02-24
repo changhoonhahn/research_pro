@@ -1,0 +1,104 @@
+-------------------------------------------------------------------------------
+v4_2 (Feb 2010)
+
+Many changes:
+- integration problem causing small scale jitter fixed
+- 2MASS filterlists fixed
+- some spectrum fitting code added
+- changes in /silent behavior
+- fixes in magnitude input for SDSS_KCORRECT
+- some keywords added to calls
+- fixes in maggies2lups routines
+- many filters added (thanks J. Moustakas and G. Zhu!)
+- changes to Vmax code (J. Moustakas)
+
+-------------------------------------------------------------------------------
+-------------------------------------------------------------------------------
+v4_1_4 (October, 2005)
+
+DEEP_KCORRECT - add /silent; add filterlist keyword to give list of
+  three filters to K-correct to; add intsfh keyword
+KCORRECT - add /silent; fix behavior when fluxes not input
+K_PROJECT_FILTERS - add /silent
+K_SOLAR_MAGNITUDES - add /silent
+K_READ_BASEL - add /silent
+MEASURE_DEEP_STACK - stack SDSS photometry for DEEP2 galaxies
+SDSS2DEEP - use closest bands to K-correct from (changes red colors by
+  0.1 mag --- this version is more correct)
+SDSS_KCORRECT - fix typo affecting magnitude inputs
+STACK_AND_MEASURE - code for stacking SDSS photometry (depends on photoop)
+
+data/redshifts/deep/get_deep - get pcat files too
+
+-------------------------------------------------------------------------------
+v4_1_3 (October, 2005)
+
+K_BINSPEC - add function to bin spectra in a simple way
+
+-------------------------------------------------------------------------------
+v4_1_2 (September 21, 2005) 
+
+K_LAMBDA_TO_EDGES - fix small bug 
+K_LINEAR_TRANSFORMS - fix small bug
+PAPER_PLOTS - change form of plot slightly
+
+Documentation changes
+
+-------------------------------------------------------------------------------
+v4_1_0 (Early September, 2005) 
+
+DEEP_KCORRECT - fix bug in obands, fix to bug in common block tracking
+DEEP_TO_MAGGIES - removed SFD correction, since DEEP2 mags already corrected
+FIT_SDSS_FIBER - add vdisp keyword
+GALEX_TO_MAGGIES - improvements submitted by David Schiminovich
+GOODS_KCORRECT - fix bug in goods_filterlist, add arbitrary filterlist
+  input, and add appm output, and fix bug in obands usage, fix to bug in 
+  common block tracking
+GOODS_TO_MAGGIES - change error flags 
+KCORRECT - add met, b300 and b1000 outputs; return current stellar mass
+KEYNOTE_PLOTS - make plots for presentations
+K_DERIVED - new routine to create k_nmf_derived files with SFH properties
+K_FIT_IMAGE - experimental image-fitting code
+K_FIT_TEMPLATES - change data used
+K_GOODS_TESTS - compare magnitude, not colors
+K_LINEAR_TRANSFORMS - update to output more sensibly
+K_NMF_MMATRIX - trim lyman alpha from MAPPINGS inputs; add mremain
+K_NMF_MMATRIX_LRG - increase library of models; add mremain
+K_NMF_SPDATA - tweak data used
+K_NMF_SPDATA_SWIRE - gather data to play with SWIRE
+K_NMF_SPDATA_PHOTOZ - gather data to play with photo-z's
+K_NMF_SPDATA_LRG - gather data to fit especially to LRGs
+K_NMF_SPDATA_GOODS - gather data to fit especially to the GOODS data
+K_RECONSTRUCT_SPEC - add 1 gyr output; return current stellar mass
+K_TWEAK_PHOTOZ - template tweaking code to improve photo-z's (experimental)
+LF_Z2T - redshift to time routine
+LF_T2Z - time to redshift routine
+READFAST - replace findfile with file_search
+READ_MAPPINGS - add code to exclude Lyman alpha from outputs
+SDSS2BESSELL - return SFH parameters
+SDSS_KCORRECT - return current stellar mass rather than total
+SDSS_TO_MAGGIES - find extinction from dust maps if not in struct
+                  HUGE CHANGE IN Z BAND AB CORRECTIONS
+SFH_RECONSTRUCT - code to return info about star-formation history given coeffs
+
+doc/html/index.html - HUGE CHANGE IN Z BAND AB CORRECTIONS
+docs/paper - work on paper
+data/templates/vmatrix.*early.dat - data files for evolution estimates
+data/templates/k_nmf_*.lrg1.fits - include more data and refit with AB fix
+data/test/gst_test.fits - new galex extractions
+data/filters/bessell_*.par - changed to per photon (were previously,
+  and erroneously, given in the per energy units listed in the Bessell paper)
+data/filters/twomass_*.par - changed to latest 2mass files (seem exactly
+  the same as old)
+user_list - added users
+
+A big change in the above was to report the CURRENT stellar mass
+rather than the TOTAL stellar mass formed previously.
+
+-------------------------------------------------------------------------------
+v4_0 (June 16, 2005) 
+use spec5m templates as defaults, remove extraneous stuff
+
+-------------------------------------------------------------------------------
+v3_4 (June 16, 2005) 
+tagged as last version using v3 templates

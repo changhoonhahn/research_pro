@@ -1,0 +1,1601 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/kcorrect/!svn/ver/664/trunk/data/filters
+END
+vimos_B.par
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/kcorrect/!svn/ver/589/trunk/data/filters/vimos_B.par
+END
+clash_wfc3_f160w.par
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/kcorrect/!svn/ver/664/trunk/data/filters/clash_wfc3_f160w.par
+END
+sdss_g2.par
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/kcorrect/!svn/ver/201/trunk/data/filters/sdss_g2.par
+END
+clash_wfc3_f390w.par
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/kcorrect/!svn/ver/664/trunk/data/filters/clash_wfc3_f390w.par
+END
+wfcam_H.par
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/kcorrect/!svn/ver/548/trunk/data/filters/wfcam_H.par
+END
+vimos_I_Q3.par
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/kcorrect/!svn/ver/589/trunk/data/filters/vimos_I_Q3.par
+END
+sdss_g6.par
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/kcorrect/!svn/ver/201/trunk/data/filters/sdss_g6.par
+END
+epsi_I.par
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/kcorrect/!svn/ver/532/trunk/data/filters/epsi_I.par
+END
+flamingos_Ks.par
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/kcorrect/!svn/ver/589/trunk/data/filters/flamingos_Ks.par
+END
+vimos_R.par
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/kcorrect/!svn/ver/589/trunk/data/filters/vimos_R.par
+END
+processspitzer
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/kcorrect/!svn/ver/331/trunk/data/filters/processspitzer
+END
+capak_cfht_wircam_Ks.par
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/kcorrect/!svn/ver/613/trunk/data/filters/capak_cfht_wircam_Ks.par
+END
+vimos_V.par
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/kcorrect/!svn/ver/589/trunk/data/filters/vimos_V.par
+END
+vimos_U_Q2.par
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/kcorrect/!svn/ver/589/trunk/data/filters/vimos_U_Q2.par
+END
+capak_ukirt_wfcam_J.par
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/kcorrect/!svn/ver/613/trunk/data/filters/capak_ukirt_wfcam_J.par
+END
+epsi_U.par
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/kcorrect/!svn/ver/532/trunk/data/filters/epsi_U.par
+END
+subaru_suprimecam_B.par
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/kcorrect/!svn/ver/592/trunk/data/filters/subaru_suprimecam_B.par
+END
+mmt_megacam_r.par
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/kcorrect/!svn/ver/627/trunk/data/filters/mmt_megacam_r.par
+END
+gdds_H.par
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/kcorrect/!svn/ver/589/trunk/data/filters/gdds_H.par
+END
+FORS_I_ccd_atm.par
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/kcorrect/!svn/ver/627/trunk/data/filters/FORS_I_ccd_atm.par
+END
+spitzer_irac_ch4.par
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/kcorrect/!svn/ver/313/trunk/data/filters/spitzer_irac_ch4.par
+END
+mmt_megacam_z.par
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/kcorrect/!svn/ver/627/trunk/data/filters/mmt_megacam_z.par
+END
+clash_wfc3_f125w.par
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/kcorrect/!svn/ver/664/trunk/data/filters/clash_wfc3_f125w.par
+END
+clash_wfc3_f218w.par
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/kcorrect/!svn/ver/664/trunk/data/filters/clash_wfc3_f218w.par
+END
+ukschmidt_bj.par
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/kcorrect/!svn/ver/202/trunk/data/filters/ukschmidt_bj.par
+END
+clash_acs_f625w.par
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/kcorrect/!svn/ver/664/trunk/data/filters/clash_acs_f625w.par
+END
+subaru_suprimecam_V.par
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/kcorrect/!svn/ver/592/trunk/data/filters/subaru_suprimecam_V.par
+END
+ctio_mosaic_ii_B.par
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/kcorrect/!svn/ver/594/trunk/data/filters/ctio_mosaic_ii_B.par
+END
+ediscs_B.par
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/kcorrect/!svn/ver/589/trunk/data/filters/ediscs_B.par
+END
+clash_acs_f475w.par
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/kcorrect/!svn/ver/664/trunk/data/filters/clash_acs_f475w.par
+END
+spitzer_mips_160.par
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/kcorrect/!svn/ver/331/trunk/data/filters/spitzer_mips_160.par
+END
+galexheader
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/kcorrect/!svn/ver/302/trunk/data/filters/galexheader
+END
+processsdss
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/kcorrect/!svn/ver/201/trunk/data/filters/processsdss
+END
+clash_wfc3_f110w.par
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/kcorrect/!svn/ver/664/trunk/data/filters/clash_wfc3_f110w.par
+END
+bessell_B.par
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/kcorrect/!svn/ver/440/trunk/data/filters/bessell_B.par
+END
+capak_subaru_suprimecam_g.par
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/kcorrect/!svn/ver/613/trunk/data/filters/capak_subaru_suprimecam_g.par
+END
+ediscs_R.par
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/kcorrect/!svn/ver/589/trunk/data/filters/ediscs_R.par
+END
+cdfs_swire_g.par
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/kcorrect/!svn/ver/646/trunk/data/filters/cdfs_swire_g.par
+END
+ctio_mosaic_ii_V.par
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/kcorrect/!svn/ver/594/trunk/data/filters/ctio_mosaic_ii_V.par
+END
+ediscs_V.par
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/kcorrect/!svn/ver/589/trunk/data/filters/ediscs_V.par
+END
+sdss_i0.par
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/kcorrect/!svn/ver/201/trunk/data/filters/sdss_i0.par
+END
+subaru_suprimecam_r.par
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/kcorrect/!svn/ver/592/trunk/data/filters/subaru_suprimecam_r.par
+END
+sdss_i4.par
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/kcorrect/!svn/ver/201/trunk/data/filters/sdss_i4.par
+END
+bessell_R.par
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/kcorrect/!svn/ver/440/trunk/data/filters/bessell_R.par
+END
+iras_100.par
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/kcorrect/!svn/ver/589/trunk/data/filters/iras_100.par
+END
+bessell_V.par
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/kcorrect/!svn/ver/440/trunk/data/filters/bessell_V.par
+END
+subaru_suprimecam_z.par
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/kcorrect/!svn/ver/592/trunk/data/filters/subaru_suprimecam_z.par
+END
+sdss_u1.par
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/kcorrect/!svn/ver/201/trunk/data/filters/sdss_u1.par
+END
+bessellheader
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/kcorrect/!svn/ver/201/trunk/data/filters/bessellheader
+END
+ukirt_wfcam_K.par
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/kcorrect/!svn/ver/590/trunk/data/filters/ukirt_wfcam_K.par
+END
+sdss_u5.par
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/kcorrect/!svn/ver/201/trunk/data/filters/sdss_u5.par
+END
+flamingos_J.par
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/kcorrect/!svn/ver/589/trunk/data/filters/flamingos_J.par
+END
+ctio_mosaic_ii_r.par
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/kcorrect/!svn/ver/594/trunk/data/filters/ctio_mosaic_ii_r.par
+END
+vimos_B_Q4.par
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/kcorrect/!svn/ver/589/trunk/data/filters/vimos_B_Q4.par
+END
+goodsheader
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/kcorrect/!svn/ver/379/trunk/data/filters/goodsheader
+END
+ctio_mosaic_ii_z.par
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/kcorrect/!svn/ver/594/trunk/data/filters/ctio_mosaic_ii_z.par
+END
+ukirt_wfcam_H2.par
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/kcorrect/!svn/ver/590/trunk/data/filters/ukirt_wfcam_H2.par
+END
+lco_wirc_H.par
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/kcorrect/!svn/ver/591/trunk/data/filters/lco_wirc_H.par
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/kcorrect/!svn/ver/137/trunk/data/filters/README
+END
+sdss_r1.par
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/kcorrect/!svn/ver/201/trunk/data/filters/sdss_r1.par
+END
+wise_w2.par
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/kcorrect/!svn/ver/653/trunk/data/filters/wise_w2.par
+END
+galex_FUV.par
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/kcorrect/!svn/ver/302/trunk/data/filters/galex_FUV.par
+END
+sdss_r5.par
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/kcorrect/!svn/ver/201/trunk/data/filters/sdss_r5.par
+END
+vimos_R_Q4.par
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/kcorrect/!svn/ver/589/trunk/data/filters/vimos_R_Q4.par
+END
+vimos_V_Q1.par
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/kcorrect/!svn/ver/589/trunk/data/filters/vimos_V_Q1.par
+END
+sdss_z3.par
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/kcorrect/!svn/ver/201/trunk/data/filters/sdss_z3.par
+END
+galex_NUV.par
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/kcorrect/!svn/ver/302/trunk/data/filters/galex_NUV.par
+END
+clash_wfc3_f140w.par
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/kcorrect/!svn/ver/664/trunk/data/filters/clash_wfc3_f140w.par
+END
+capak_cfht_megaprime_sagem_i.par
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/kcorrect/!svn/ver/613/trunk/data/filters/capak_cfht_megaprime_sagem_i.par
+END
+goods_acs_f850lp.par
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/kcorrect/!svn/ver/380/trunk/data/filters/goods_acs_f850lp.par
+END
+epsi_B.par
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/kcorrect/!svn/ver/532/trunk/data/filters/epsi_B.par
+END
+ndwfs_R.par
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/kcorrect/!svn/ver/589/trunk/data/filters/ndwfs_R.par
+END
+sdss_g3.par
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/kcorrect/!svn/ver/201/trunk/data/filters/sdss_g3.par
+END
+clash_wfc3_f625w.par
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/kcorrect/!svn/ver/664/trunk/data/filters/clash_wfc3_f625w.par
+END
+epsi_604m.par
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/kcorrect/!svn/ver/532/trunk/data/filters/epsi_604m.par
+END
+processbessell
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/kcorrect/!svn/ver/440/trunk/data/filters/processbessell
+END
+clash_wfc3_f475w.par
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/kcorrect/!svn/ver/664/trunk/data/filters/clash_wfc3_f475w.par
+END
+vimos_I_Q4.par
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/kcorrect/!svn/ver/589/trunk/data/filters/vimos_I_Q4.par
+END
+clash_acs_f814w.par
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/kcorrect/!svn/ver/664/trunk/data/filters/clash_acs_f814w.par
+END
+capak_cfht_megaprime_sagem_u.par
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/kcorrect/!svn/ver/613/trunk/data/filters/capak_cfht_megaprime_sagem_u.par
+END
+wfpc2_f606w.par
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/kcorrect/!svn/ver/601/trunk/data/filters/wfpc2_f606w.par
+END
+epsi_753m.par
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/kcorrect/!svn/ver/532/trunk/data/filters/epsi_753m.par
+END
+epsi_915m.par
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/kcorrect/!svn/ver/532/trunk/data/filters/epsi_915m.par
+END
+vlt_vimos_z.par
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/kcorrect/!svn/ver/614/trunk/data/filters/vlt_vimos_z.par
+END
+mmt_megacam_g.par
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/kcorrect/!svn/ver/627/trunk/data/filters/mmt_megacam_g.par
+END
+hst_acs_f814w.par
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/kcorrect/!svn/ver/648/trunk/data/filters/hst_acs_f814w.par
+END
+epsi_696m.par
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/kcorrect/!svn/ver/532/trunk/data/filters/epsi_696m.par
+END
+epsi_R.par
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/kcorrect/!svn/ver/532/trunk/data/filters/epsi_R.par
+END
+vimos_U_Q3.par
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/kcorrect/!svn/ver/589/trunk/data/filters/vimos_U_Q3.par
+END
+epsi_V.par
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/kcorrect/!svn/ver/532/trunk/data/filters/epsi_V.par
+END
+wfcam_Y.par
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/kcorrect/!svn/ver/548/trunk/data/filters/wfcam_Y.par
+END
+FORS2_R_ccd_atm.par
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/kcorrect/!svn/ver/627/trunk/data/filters/FORS2_R_ccd_atm.par
+END
+spitzer_irac_ch1.par
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/kcorrect/!svn/ver/313/trunk/data/filters/spitzer_irac_ch1.par
+END
+gdds_I.par
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/kcorrect/!svn/ver/589/trunk/data/filters/gdds_I.par
+END
+clash_wfc3_f105w.par
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/kcorrect/!svn/ver/664/trunk/data/filters/clash_wfc3_f105w.par
+END
+ukirt_wfcam_Brg.par
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/kcorrect/!svn/ver/590/trunk/data/filters/ukirt_wfcam_Brg.par
+END
+oldtwomass_J.par
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/kcorrect/!svn/ver/440/trunk/data/filters/oldtwomass_J.par
+END
+epsi_855m.par
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/kcorrect/!svn/ver/532/trunk/data/filters/epsi_855m.par
+END
+newfirm_J.par
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/kcorrect/!svn/ver/645/trunk/data/filters/newfirm_J.par
+END
+oldtwomassheader
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/kcorrect/!svn/ver/440/trunk/data/filters/oldtwomassheader
+END
+subaru_suprimecam_g.par
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/kcorrect/!svn/ver/592/trunk/data/filters/subaru_suprimecam_g.par
+END
+SOFI_Ks_atm.par
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/kcorrect/!svn/ver/627/trunk/data/filters/SOFI_Ks_atm.par
+END
+twomass_H.par
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/kcorrect/!svn/ver/632/trunk/data/filters/twomass_H.par
+END
+sdss_i1.par
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/kcorrect/!svn/ver/201/trunk/data/filters/sdss_i1.par
+END
+clash_wfc3_f275w.par
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/kcorrect/!svn/ver/664/trunk/data/filters/clash_wfc3_f275w.par
+END
+wfpc2_f450w.par
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/kcorrect/!svn/ver/600/trunk/data/filters/wfpc2_f450w.par
+END
+sdss_i5.par
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/kcorrect/!svn/ver/201/trunk/data/filters/sdss_i5.par
+END
+ndwfs_Bw.par
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/kcorrect/!svn/ver/589/trunk/data/filters/ndwfs_Bw.par
+END
+defaultheader
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/kcorrect/!svn/ver/135/trunk/data/filters/defaultheader
+END
+epsi_646m.par
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/kcorrect/!svn/ver/532/trunk/data/filters/epsi_646m.par
+END
+wfpc2_f555w.par
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/kcorrect/!svn/ver/600/trunk/data/filters/wfpc2_f555w.par
+END
+clash_acs_f775w.par
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/kcorrect/!svn/ver/664/trunk/data/filters/clash_acs_f775w.par
+END
+goods_J_isaac_etc.par
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/kcorrect/!svn/ver/380/trunk/data/filters/goods_J_isaac_etc.par
+END
+ctio_mosaic_ii_g.par
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/kcorrect/!svn/ver/594/trunk/data/filters/ctio_mosaic_ii_g.par
+END
+ukirt_wfcam_H.par
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/kcorrect/!svn/ver/590/trunk/data/filters/ukirt_wfcam_H.par
+END
+sdss_u2.par
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/kcorrect/!svn/ver/201/trunk/data/filters/sdss_u2.par
+END
+deep_I.par
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/kcorrect/!svn/ver/661/trunk/data/filters/deep_I.par
+END
+sdss_u6.par
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/kcorrect/!svn/ver/201/trunk/data/filters/sdss_u6.par
+END
+spitzer_mips_70.par
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/kcorrect/!svn/ver/331/trunk/data/filters/spitzer_mips_70.par
+END
+vimos_B_Q1.par
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/kcorrect/!svn/ver/589/trunk/data/filters/vimos_B_Q1.par
+END
+clash_wfc3_f814w.par
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/kcorrect/!svn/ver/664/trunk/data/filters/clash_wfc3_f814w.par
+END
+wfpc2_f702w.par
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/kcorrect/!svn/ver/600/trunk/data/filters/wfpc2_f702w.par
+END
+cfht_megacam_i.par
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/kcorrect/!svn/ver/590/trunk/data/filters/cfht_megacam_i.par
+END
+epsi_518m.par
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/kcorrect/!svn/ver/532/trunk/data/filters/epsi_518m.par
+END
+SOFI_J_atm.par
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/kcorrect/!svn/ver/627/trunk/data/filters/SOFI_J_atm.par
+END
+sdss_r2.par
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/kcorrect/!svn/ver/201/trunk/data/filters/sdss_r2.par
+END
+vimos_R_Q1.par
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/kcorrect/!svn/ver/589/trunk/data/filters/vimos_R_Q1.par
+END
+wise_w3.par
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/kcorrect/!svn/ver/653/trunk/data/filters/wise_w3.par
+END
+cfht_megacam_u.par
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/kcorrect/!svn/ver/590/trunk/data/filters/cfht_megacam_u.par
+END
+sdss_r6.par
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/kcorrect/!svn/ver/201/trunk/data/filters/sdss_r6.par
+END
+vimos_V_Q2.par
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/kcorrect/!svn/ver/589/trunk/data/filters/vimos_V_Q2.par
+END
+sdss_z0.par
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/kcorrect/!svn/ver/201/trunk/data/filters/sdss_z0.par
+END
+cfh12k_I.par
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/kcorrect/!svn/ver/662/trunk/data/filters/cfh12k_I.par
+END
+sdss_z4.par
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/kcorrect/!svn/ver/201/trunk/data/filters/sdss_z4.par
+END
+ndwfs_K.par
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/kcorrect/!svn/ver/589/trunk/data/filters/ndwfs_K.par
+END
+clash_wfc3_f225w.par
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/kcorrect/!svn/ver/664/trunk/data/filters/clash_wfc3_f225w.par
+END
+sdss_g0.par
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/kcorrect/!svn/ver/201/trunk/data/filters/sdss_g0.par
+END
+goods_Ks_isaac_etc.par
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/kcorrect/!svn/ver/380/trunk/data/filters/goods_Ks_isaac_etc.par
+END
+vimos_I_Q1.par
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/kcorrect/!svn/ver/589/trunk/data/filters/vimos_I_Q1.par
+END
+sdss_g4.par
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/kcorrect/!svn/ver/201/trunk/data/filters/sdss_g4.par
+END
+capak_cfht_megaprime_sagem_r.par
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/kcorrect/!svn/ver/613/trunk/data/filters/capak_cfht_megaprime_sagem_r.par
+END
+wfcam_J.par
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/kcorrect/!svn/ver/548/trunk/data/filters/wfcam_J.par
+END
+ctio_mosaic_ii_Uj.par
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/kcorrect/!svn/ver/596/trunk/data/filters/ctio_mosaic_ii_Uj.par
+END
+epsi_571m.par
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/kcorrect/!svn/ver/532/trunk/data/filters/epsi_571m.par
+END
+subaru_suprimecam_Rc.par
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/kcorrect/!svn/ver/596/trunk/data/filters/subaru_suprimecam_Rc.par
+END
+processtwomass
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/kcorrect/!svn/ver/632/trunk/data/filters/processtwomass
+END
+capak_cfht_megaprime_sagem_z.par
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/kcorrect/!svn/ver/613/trunk/data/filters/capak_cfht_megaprime_sagem_z.par
+END
+gdds_B.par
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/kcorrect/!svn/ver/589/trunk/data/filters/gdds_B.par
+END
+ukschmidtheader
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/kcorrect/!svn/ver/201/trunk/data/filters/ukschmidtheader
+END
+vimos_U_Q4.par
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/kcorrect/!svn/ver/589/trunk/data/filters/vimos_U_Q4.par
+END
+processall
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/kcorrect/!svn/ver/301/trunk/data/filters/processall
+END
+wfcam_Z.par
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/kcorrect/!svn/ver/548/trunk/data/filters/wfcam_Z.par
+END
+spitzer_irac_ch2.par
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/kcorrect/!svn/ver/313/trunk/data/filters/spitzer_irac_ch2.par
+END
+gdds_R.par
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/kcorrect/!svn/ver/589/trunk/data/filters/gdds_R.par
+END
+gdds_V.par
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/kcorrect/!svn/ver/589/trunk/data/filters/gdds_V.par
+END
+clash_acs_f435w.par
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/kcorrect/!svn/ver/664/trunk/data/filters/clash_acs_f435w.par
+END
+clash_wfc3_f775w.par
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/kcorrect/!svn/ver/664/trunk/data/filters/clash_wfc3_f775w.par
+END
+cdfs_swire_U.par
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/kcorrect/!svn/ver/646/trunk/data/filters/cdfs_swire_U.par
+END
+wfpc2_f675w.par
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/kcorrect/!svn/ver/600/trunk/data/filters/wfpc2_f675w.par
+END
+twomass_Ks.par
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/kcorrect/!svn/ver/632/trunk/data/filters/twomass_Ks.par
+END
+capak_subaru_suprimecam_i.par
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/kcorrect/!svn/ver/613/trunk/data/filters/capak_subaru_suprimecam_i.par
+END
+iras_12.par
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/kcorrect/!svn/ver/589/trunk/data/filters/iras_12.par
+END
+cdfs_swire_i.par
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/kcorrect/!svn/ver/646/trunk/data/filters/cdfs_swire_i.par
+END
+clash_wfc3_f336w.par
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/kcorrect/!svn/ver/664/trunk/data/filters/clash_wfc3_f336w.par
+END
+sdss_i2.par
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/kcorrect/!svn/ver/201/trunk/data/filters/sdss_i2.par
+END
+clash_acs_f606w.par
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/kcorrect/!svn/ver/664/trunk/data/filters/clash_acs_f606w.par
+END
+sdss_i6.par
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/kcorrect/!svn/ver/201/trunk/data/filters/sdss_i6.par
+END
+epsi_464m.par
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/kcorrect/!svn/ver/532/trunk/data/filters/epsi_464m.par
+END
+gdds_z.par
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/kcorrect/!svn/ver/589/trunk/data/filters/gdds_z.par
+END
+goods_H_isaac_etc.par
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/kcorrect/!svn/ver/380/trunk/data/filters/goods_H_isaac_etc.par
+END
+deep_B.par
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/kcorrect/!svn/ver/661/trunk/data/filters/deep_B.par
+END
+sdss_u3.par
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/kcorrect/!svn/ver/201/trunk/data/filters/sdss_u3.par
+END
+flamingos_H.par
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/kcorrect/!svn/ver/589/trunk/data/filters/flamingos_H.par
+END
+processgoods
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/kcorrect/!svn/ver/381/trunk/data/filters/processgoods
+END
+lco_wirc_Ks.par
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/kcorrect/!svn/ver/591/trunk/data/filters/lco_wirc_Ks.par
+END
+deep_R.par
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/kcorrect/!svn/ver/661/trunk/data/filters/deep_R.par
+END
+vimos_B_Q2.par
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/kcorrect/!svn/ver/589/trunk/data/filters/vimos_B_Q2.par
+END
+goods_acs_f775w.par
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/kcorrect/!svn/ver/380/trunk/data/filters/goods_acs_f775w.par
+END
+subaru_suprimecam_Ic.par
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/kcorrect/!svn/ver/596/trunk/data/filters/subaru_suprimecam_Ic.par
+END
+lbc_blue_ufilter.par
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/kcorrect/!svn/ver/645/trunk/data/filters/lbc_blue_ufilter.par
+END
+ukirt_wfcam_Y.par
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/kcorrect/!svn/ver/590/trunk/data/filters/ukirt_wfcam_Y.par
+END
+iras_60.par
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/kcorrect/!svn/ver/589/trunk/data/filters/iras_60.par
+END
+newfirm_Ks.par
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/kcorrect/!svn/ver/645/trunk/data/filters/newfirm_Ks.par
+END
+iras_25.par
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/kcorrect/!svn/ver/589/trunk/data/filters/iras_25.par
+END
+clash_wfc3_f438w.par
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/kcorrect/!svn/ver/664/trunk/data/filters/clash_wfc3_f438w.par
+END
+lco_wirc_J.par
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/kcorrect/!svn/ver/591/trunk/data/filters/lco_wirc_J.par
+END
+epsi_485m.par
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/kcorrect/!svn/ver/532/trunk/data/filters/epsi_485m.par
+END
+processgalex
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/kcorrect/!svn/ver/301/trunk/data/filters/processgalex
+END
+cfht_megacam_r.par
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/kcorrect/!svn/ver/590/trunk/data/filters/cfht_megacam_r.par
+END
+cfh12k_B.par
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/kcorrect/!svn/ver/662/trunk/data/filters/cfh12k_B.par
+END
+vimos_R_Q2.par
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/kcorrect/!svn/ver/589/trunk/data/filters/vimos_R_Q2.par
+END
+sdss_r3.par
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/kcorrect/!svn/ver/201/trunk/data/filters/sdss_r3.par
+END
+wise_w4.par
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/kcorrect/!svn/ver/653/trunk/data/filters/wise_w4.par
+END
+vimos_V_Q3.par
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/kcorrect/!svn/ver/589/trunk/data/filters/vimos_V_Q3.par
+END
+sdss_z1.par
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/kcorrect/!svn/ver/201/trunk/data/filters/sdss_z1.par
+END
+cfht_megacam_z.par
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/kcorrect/!svn/ver/590/trunk/data/filters/cfht_megacam_z.par
+END
+sdss_z5.par
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/kcorrect/!svn/ver/201/trunk/data/filters/sdss_z5.par
+END
+capak_cfht_megaprime_sagem_g.par
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/kcorrect/!svn/ver/613/trunk/data/filters/capak_cfht_megaprime_sagem_g.par
+END
+cfh12k_R.par
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/kcorrect/!svn/ver/662/trunk/data/filters/cfh12k_R.par
+END
+sdss_g1.par
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/kcorrect/!svn/ver/201/trunk/data/filters/sdss_g1.par
+END
+cfh12k_V.par
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/kcorrect/!svn/ver/662/trunk/data/filters/cfh12k_V.par
+END
+vimos_I.par
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/kcorrect/!svn/ver/589/trunk/data/filters/vimos_I.par
+END
+vimos_I_Q2.par
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/kcorrect/!svn/ver/589/trunk/data/filters/vimos_I_Q2.par
+END
+sdss_g5.par
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/kcorrect/!svn/ver/201/trunk/data/filters/sdss_g5.par
+END
+wfcam_K.par
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/kcorrect/!svn/ver/548/trunk/data/filters/wfcam_K.par
+END
+processukschmidt
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/kcorrect/!svn/ver/201/trunk/data/filters/processukschmidt
+END
+clash_acs_f555w.par
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/kcorrect/!svn/ver/664/trunk/data/filters/clash_acs_f555w.par
+END
+mmt_megacam_i.par
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/kcorrect/!svn/ver/627/trunk/data/filters/mmt_megacam_i.par
+END
+vimos_U.par
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/kcorrect/!svn/ver/589/trunk/data/filters/vimos_U.par
+END
+vimos_U_Q1.par
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/kcorrect/!svn/ver/589/trunk/data/filters/vimos_U_Q1.par
+END
+FORS_B_ccd_atm.par
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/kcorrect/!svn/ver/627/trunk/data/filters/FORS_B_ccd_atm.par
+END
+capak_subaru_suprimecam_B.par
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/kcorrect/!svn/ver/613/trunk/data/filters/capak_subaru_suprimecam_B.par
+END
+spitzer_irac_ch3.par
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/kcorrect/!svn/ver/313/trunk/data/filters/spitzer_irac_ch3.par
+END
+mmt_megacam_u.par
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/kcorrect/!svn/ver/627/trunk/data/filters/mmt_megacam_u.par
+END
+gdds_K.par
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/kcorrect/!svn/ver/589/trunk/data/filters/gdds_K.par
+END
+ctio_mosaic_ii_Rc.par
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/kcorrect/!svn/ver/596/trunk/data/filters/ctio_mosaic_ii_Rc.par
+END
+capak_ukirt_wfcam_Y.par
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/kcorrect/!svn/ver/613/trunk/data/filters/capak_ukirt_wfcam_Y.par
+END
+oldtwomass_H.par
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/kcorrect/!svn/ver/440/trunk/data/filters/oldtwomass_H.par
+END
+clash_wfc3_f606w.par
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/kcorrect/!svn/ver/664/trunk/data/filters/clash_wfc3_f606w.par
+END
+cfh12k_z.par
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/kcorrect/!svn/ver/662/trunk/data/filters/cfh12k_z.par
+END
+FORS_V_ccd_atm.par
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/kcorrect/!svn/ver/627/trunk/data/filters/FORS_V_ccd_atm.par
+END
+capak_subaru_suprimecam_V.par
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/kcorrect/!svn/ver/613/trunk/data/filters/capak_subaru_suprimecam_V.par
+END
+clash_wfc3_f850lp.par
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/kcorrect/!svn/ver/664/trunk/data/filters/clash_wfc3_f850lp.par
+END
+epsi_815m.par
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/kcorrect/!svn/ver/532/trunk/data/filters/epsi_815m.par
+END
+newfirm_H.par
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/kcorrect/!svn/ver/645/trunk/data/filters/newfirm_H.par
+END
+ediscs_I.par
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/kcorrect/!svn/ver/589/trunk/data/filters/ediscs_I.par
+END
+goods_acs_f435w.par
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/kcorrect/!svn/ver/380/trunk/data/filters/goods_acs_f435w.par
+END
+clash_wfc3_f300x.par
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/kcorrect/!svn/ver/664/trunk/data/filters/clash_wfc3_f300x.par
+END
+spitzer_mips_24.par
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/kcorrect/!svn/ver/331/trunk/data/filters/spitzer_mips_24.par
+END
+subaru_suprimecam_i.par
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/kcorrect/!svn/ver/592/trunk/data/filters/subaru_suprimecam_i.par
+END
+bessell_I.par
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/kcorrect/!svn/ver/440/trunk/data/filters/bessell_I.par
+END
+epsi_420m.par
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/kcorrect/!svn/ver/532/trunk/data/filters/epsi_420m.par
+END
+twomass_J.par
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/kcorrect/!svn/ver/632/trunk/data/filters/twomass_J.par
+END
+capak_subaru_suprimecam_r.par
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/kcorrect/!svn/ver/613/trunk/data/filters/capak_subaru_suprimecam_r.par
+END
+sdss_i3.par
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/kcorrect/!svn/ver/201/trunk/data/filters/sdss_i3.par
+END
+cdfs_swire_r.par
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/kcorrect/!svn/ver/646/trunk/data/filters/cdfs_swire_r.par
+END
+bok_90prime_z.par
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/kcorrect/!svn/ver/627/trunk/data/filters/bok_90prime_z.par
+END
+wfpc2_f814w.par
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/kcorrect/!svn/ver/600/trunk/data/filters/wfpc2_f814w.par
+END
+bessell_U.par
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/kcorrect/!svn/ver/440/trunk/data/filters/bessell_U.par
+END
+clash_acs_f850lp.par
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/kcorrect/!svn/ver/664/trunk/data/filters/clash_acs_f850lp.par
+END
+capak_subaru_suprimecam_z.par
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/kcorrect/!svn/ver/613/trunk/data/filters/capak_subaru_suprimecam_z.par
+END
+sdss_u0.par
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/kcorrect/!svn/ver/201/trunk/data/filters/sdss_u0.par
+END
+cdfs_swire_z.par
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/kcorrect/!svn/ver/646/trunk/data/filters/cdfs_swire_z.par
+END
+ctio_mosaic_ii_i.par
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/kcorrect/!svn/ver/594/trunk/data/filters/ctio_mosaic_ii_i.par
+END
+sdss_u4.par
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/kcorrect/!svn/ver/201/trunk/data/filters/sdss_u4.par
+END
+ukirt_wfcam_J.par
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/kcorrect/!svn/ver/590/trunk/data/filters/ukirt_wfcam_J.par
+END
+twomassheader
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/kcorrect/!svn/ver/440/trunk/data/filters/twomassheader
+END
+goods_acs_f606w.par
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/kcorrect/!svn/ver/380/trunk/data/filters/goods_acs_f606w.par
+END
+vlt_vimos_I.par
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/kcorrect/!svn/ver/614/trunk/data/filters/vlt_vimos_I.par
+END
+ctio_mosaic_ii_u.par
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/kcorrect/!svn/ver/594/trunk/data/filters/ctio_mosaic_ii_u.par
+END
+vimos_B_Q3.par
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/kcorrect/!svn/ver/589/trunk/data/filters/vimos_B_Q3.par
+END
+cfht_megacam_g.par
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/kcorrect/!svn/ver/590/trunk/data/filters/cfht_megacam_g.par
+END
+sdssheader
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/kcorrect/!svn/ver/201/trunk/data/filters/sdssheader
+END
+ukirt_wfcam_Z.par
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/kcorrect/!svn/ver/590/trunk/data/filters/ukirt_wfcam_Z.par
+END
+palomar_K.par
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/kcorrect/!svn/ver/578/trunk/data/filters/palomar_K.par
+END
+clash_wfc3_f555w.par
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/kcorrect/!svn/ver/664/trunk/data/filters/clash_wfc3_f555w.par
+END
+sdss_r0.par
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/kcorrect/!svn/ver/201/trunk/data/filters/sdss_r0.par
+END
+wise_w1.par
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/kcorrect/!svn/ver/653/trunk/data/filters/wise_w1.par
+END
+vimos_R_Q3.par
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/kcorrect/!svn/ver/589/trunk/data/filters/vimos_R_Q3.par
+END
+sdss_r4.par
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/kcorrect/!svn/ver/201/trunk/data/filters/sdss_r4.par
+END
+ctio_mosaic_ii_Ic.par
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/kcorrect/!svn/ver/596/trunk/data/filters/ctio_mosaic_ii_Ic.par
+END
+vimos_V_Q4.par
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/kcorrect/!svn/ver/589/trunk/data/filters/vimos_V_Q4.par
+END
+sdss_z2.par
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/kcorrect/!svn/ver/201/trunk/data/filters/sdss_z2.par
+END
+oldtwomass_Ks.par
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/kcorrect/!svn/ver/440/trunk/data/filters/oldtwomass_Ks.par
+END
+ndwfs_I.par
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/kcorrect/!svn/ver/589/trunk/data/filters/ndwfs_I.par
+END
+sdss_z6.par
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/kcorrect/!svn/ver/201/trunk/data/filters/sdss_z6.par
+END
